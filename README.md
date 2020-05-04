@@ -1,6 +1,6 @@
 # Logitech's Spotipy
 
-As a music producer, I wanted to analyze the music that I have put up on Spotify to see what patterns and conclusions I can draw not only about the music that I have released, but the music I listen to as well. Therefore, I hope to use MATLAB as a way to visualize some of the data that can be produced using the Spotify Web API (https://github.com/plamere/spotipy). By graphing scatterplots, histograms, manipulating some of the quantitative variables produced from the API and creating metrics to create and measure variables, I hope to demonstrate my proficiency with MATLAB and Python in a project that extends my interests and allows me to learn more about them.
+As a music producer, I wanted to analyze the music that I have put up on Spotify to see what patterns and conclusions I can draw not only about the music that I have released, but the music I listen to as well. Therefore, I hope to use MATLAB as a way to visualize some of the data that can be produced using the Spotify Web API (Python wrapper class: https://github.com/plamere/spotipy). By graphing scatterplots, histograms, manipulating some of the quantitative variables produced from the API and creating metrics to create and measure variables, I hope to demonstrate my proficiency with MATLAB and Python in a project that extends my interests and allows me to learn more about them.
 
 The graphs are shown in the Documentation.docx file.
 
