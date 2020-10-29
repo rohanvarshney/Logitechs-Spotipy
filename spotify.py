@@ -1,3 +1,4 @@
+# pip install spotipy
 import os
 import sys
 import time
