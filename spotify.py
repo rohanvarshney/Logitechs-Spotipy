@@ -18,6 +18,7 @@ Time Signature Data: Beats per bar/measure
 Top Tracks Valid-values: short_term, medium_term, long_term
 Example Website: http://107.170.81.187:8080/public/top
 '''
+
 def print_list_of_lists(listOfLists):
 	numberOfElements = len(listOfLists[0])
 	for i in range(numberOfElements):
@@ -39,16 +40,18 @@ def test_spotify_user(user):
 def get_playlist_data(playlistName, spotifyObject):
 	desired_playlist = object()
 	playlists = spotifyObject.current_user_playlists()
-	#print(json.dumps(playlists, sort_keys=True, indent=4))
+	# print(json.dumps(playlists, sort_keys=True, indent=4))
 	for playlist in playlists['items']:
-		if (playlist['name'] == playlistName):
+		print("Playlist Name: ", playlist['name'])
+		if (playlist['name'] in playlistName):
 			desired_playlist = playlist
 
+	# print(json.dumps(desired_playlist, sort_keys=True, indent=4))
 	results = spotifyObject.user_playlist_tracks(username, desired_playlist['id'])
 	tracks = results['items']
 	while results['next']:
 		results = spotifyObject.next(results)
-		tracks.extend(results['items'])	
+		tracks.extend(results['items'])
 
 	trackListNames, trackListAlbums, trackListArtists, trackListIDs, acousticnessData, danceabilityData, durationData, energyData, instrumentalnessData, keyData, livenessData, loudnessData, modeData, speechinessData, tempoData, timeSignatureData, valenceData = ([] for i in range(17))
 
@@ -92,7 +95,7 @@ def get_playlist_data(playlistName, spotifyObject):
 
 def get_x_term_data(spotifyObject, lengthOfTerm):
 	currentfaves = spotifyObject.current_user_top_tracks(limit=500, offset=0, time_range=lengthOfTerm)
-	
+
 	trackListNames, trackListIDs, acousticnessData, danceabilityData, durationData, energyData, instrumentalnessData, keyData, livenessData, loudnessData, modeData, speechinessData, tempoData, timeSignatureData, valenceData = ([] for i in range(15))
 
 	topTracks = currentfaves['items']
@@ -144,6 +147,14 @@ spotifyObject = spotipy.Spotify(auth=token)
 user = spotifyObject.current_user()
 test_spotify_user(user)
 
-# get_playlist_data("Public Rolex Collection", spotifyObject)
+'''
+Playlist Name:  Logitech's Lean ✨
+Playlist Name:  95.1 📡
+Playlist Name:  The 1209 Album 🙇🏽‍♂️
+Playlist Name:  Public Rolex Collection 🔊
+Playlist Name:  Sad Snoozes 💤
+Playlist Name:  BollyGOOD 💃🏽
+'''
+get_playlist_data("BollyGOOD 💃🏽", spotifyObject)
 # get_x_term_data(spotifyObject, "short_term")
-get_x_term_data(spotifyObject, "long_term")
+# get_x_term_data(spotifyObject, "long_term")

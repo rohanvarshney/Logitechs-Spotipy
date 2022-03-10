@@ -1,0 +1,8381 @@
+Kaise Mujhe (Instrumental)
+Ghajini
+A.R. Rahman
+02nOZG5WrxCHEYbjjxeZQf
+0.844
+0.598
+241557
+0.461
+0.918
+10
+0.133
+-13.836
+1
+0.0304
+82.032
+4
+0.43
+Mitwa
+Lagaan (Original Motion Picture Soundtrack)
+A.R. Rahman
+4en5tvZ1hIvSGGoRPjIdJE
+0.387
+0.627
+407800
+0.408
+0
+2
+0.126
+-7.793
+1
+0.0988
+172.006
+4
+0.694
+Radha Kaise Na Jale
+Lagaan (Original Motion Picture Soundtrack)
+A.R. Rahman
+0wnLMEOQlyW3Es1ag0HMVV
+0.229
+0.729
+334707
+0.505
+0
+7
+0.0975
+-9.236
+1
+0.323
+148.435
+3
+0.723
+O Rey Chhori
+Lagaan (Original Motion Picture Soundtrack)
+A.R. Rahman
+1HIrOjfpGrONXgylYv9UTk
+0.467
+0.475
+359053
+0.398
+0
+9
+0.0913
+-10.785
+1
+0.0502
+87.518
+4
+0.347
+Mora Piya
+Raajneeti (Original Motion Picture Soundtrack)
+Aadesh Shrivastava
+62kgwMyl2b6A9rJq38PbJ3
+0.257
+0.558
+344773
+0.572
+0.000564
+3
+0.0689
+-7.723
+0
+0.0429
+94.105
+4
+0.337
+Tauba Tumhare Ishare
+Chalte Chalte
+Abhijeet
+6kzj1MWS5tFsoOZUz4c8Hc
+0.357
+0.452
+316360
+0.608
+1.64e-05
+4
+0.118
+-13.429
+1
+0.245
+92.996
+4
+0.676
+Suno Na Suno Na
+Chalte Chalte
+Abhijeet
+5dS7HcRa9kER2qDba2iSOd
+0.0753
+0.6
+321227
+0.433
+0
+9
+0.0724
+-17.076
+1
+0.0409
+88.001
+4
+0.378
+Lamha Lamha - Version 1
+Gangster (Original Motion Picture Soundtrack)
+Abhijeet
+1nMyFB1UVTYFdvTPdVyiKt
+0.365
+0.494
+324587
+0.402
+0
+0
+0.128
+-7.866
+1
+0.028
+82.943
+4
+0.463
+Tumhe Jo Maine Dekha
+Main Hoon Na
+Abhijeet
+0pPGUL7171TRGgI6wyP8wP
+0.432
+0.734
+341147
+0.903
+0.00569
+0
+0.2
+-3.972
+0
+0.0649
+102.009
+4
+0.712
+Main Hoon Na(Sad)
+Main Hoon Na
+Abhijeet
+4xS7MhQnMv8ailfTUM347g
+0.219
+0.578
+255493
+0.482
+0
+5
+0.55
+-10.503
+1
+0.0378
+139.831
+4
+0.38
+Manma Emotion Jaage
+Dilwale (Original Motion Picture Soundtrack)
+Pritam
+6emsLWJ2bu8vCP7BslV76d
+0.0284
+0.762
+209412
+0.822
+0
+0
+0.367
+-2.758
+1
+0.0425
+101.998
+4
+0.467
+Dhinka Chika
+Ready
+Amrita Kak
+2Ggpu9s4UP2fO7bjgBMiss
+0.516
+0.752
+271900
+0.978
+0
+0
+0.32
+-4.786
+1
+0.23
+82.988
+4
+0.804
+Gori Gori Gori Gori
+Main Hoon Na
+Anu Malik
+4RtvAfvD8lgqqBnojwaDI8
+0.0726
+0.787
+268800
+0.866
+0.00292
+6
+0.284
+-7.016
+0
+0.0436
+101.009
+4
+0.68
+Zaraa Dil Ko Thaam Lo
+Don 2
+Anusha Mani
+1qbbe3NDhzji6McfE0semr
+0.0475
+0.611
+308316
+0.646
+0.0152
+10
+0.0416
+-7.086
+1
+0.0281
+129.989
+4
+0.527
+Kudi Nashe Si Befikre
+Kudi Nashe Si Befikre
+Arijit Singh
+1Y8VmFic6EFOh1zKxlqdxI
+0.108
+0.795
+238002
+0.785
+1.19e-06
+4
+0.238
+-5.428
+0
+0.0519
+96.969
+4
+0.26
+Ilahi
+Yeh Jawaani Hai Deewani
+Pritam
+5cgKosPPj5Cs9a2JQufUc1
+0.166
+0.593
+228982
+0.967
+2.54e-05
+9
+0.105
+-5.767
+1
+0.0907
+131.988
+4
+0.452
+Dilliwaali Girlfriend
+Yeh Jawaani Hai Deewani
+Pritam
+3W1XPf7mvuQcWQB7U7MbTM
+0.0811
+0.687
+260552
+0.941
+2.93e-06
+6
+0.0697
+-5.23
+0
+0.0583
+138.048
+4
+0.909
+Zara Sa Jhoom Loon Main
+Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)
+Asha Bhosle
+4AfLtSXcvG8AkfQjDR0gJ1
+0.682
+0.606
+353693
+0.553
+6.93e-05
+0
+0.191
+-12.537
+0
+0.0764
+130.657
+4
+0.868
+Woh Lamhe Woh Baatein
+Zeher (Original Motion Picture Soundtrack)
+Atif Aslam
+3pE3QvVrRLyno5TwEBDRFo
+0.135
+0.464
+320040
+0.822
+0.000449
+8
+0.0898
+-4.827
+0
+0.0662
+89.761
+4
+0.407
+Kar Gayi Chull
+Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)
+Badshah
+3BhjbaGeI7E0CiIjctfdD3
+0.0316
+0.827
+187711
+0.737
+0.000322
+11
+0.211
+-5.473
+0
+0.0764
+121.99
+4
+0.873
+Daaru Desi (From "Cocktail")
+Cocktail
+Benny Dayal
+1R7ChEm1x3mGhDWXKnPSXn
+0.198
+0.703
+269590
+0.786
+0.000712
+8
+0.101
+-6.779
+0
+0.0483
+93.987
+4
+0.647
+Kaise Mujhe
+Ghajini
+Benny Dayal
+53DXM0bHfB7xkqJZYlksuh
+0.781
+0.59
+343742
+0.414
+0.000522
+10
+0.146
+-12.391
+1
+0.0346
+82.002
+4
+0.292
+Badtameez Dil
+Yeh Jawaani Hai Deewani
+Pritam
+4eu27jAU2bbnyHUC3G75U8
+0.24
+0.806
+252760
+0.932
+0
+2
+0.216
+-2.228
+0
+0.0684
+106.021
+4
+0.792
+Tu Meri Dost Hain
+Yuvvraaj
+Benny Dayal
+65LC623tJKyTN9E5dzAQt4
+0.459
+0.686
+371659
+0.707
+3.22e-05
+7
+0.343
+-5.906
+1
+0.0255
+99.99
+4
+0.495
+Photo Rakh Ke
+Redefined
+Bups Saggu
+6urYuTdNG7TJWLQ5hDqacj
+0.0352
+0.508
+384227
+0.977
+0.567
+8
+0.119
+-4.031
+0
+0.109
+185.843
+4
+0.899
+Punjabi Hurrr
+Punjabi Hurrr
+Bups Saggu
+2opvzpPKzw8W3RTmnpc0RW
+0.0693
+0.64
+316250
+0.991
+0.149
+5
+0.373
+-1.593
+0
+0.0573
+96.013
+4
+0.96
+Nachley
+Lakeer
+Daler Mehndi
+18VzExRhgxRfk5Bskh0H7K
+0.0512
+0.706
+334507
+0.577
+1.47e-05
+2
+0.128
+-11.479
+1
+0.111
+170.031
+4
+0.707
+Aap Ki Kashish
+Aashiq Banaya Aapne
+Himesh Reshammiya
+3idkRBIvyFtx2uQWMRjn7q
+0.113
+0.683
+331627
+0.763
+0
+8
+0.0853
+-8.703
+0
+0.0485
+110.981
+4
+0.725
+Jhalak Dikhla Ja
+Aksar
+Himesh Reshammiya
+43SKg10CCeaoyr7XSKfpTR
+0.015
+0.688
+317560
+0.737
+0.00025
+2
+0.0599
+-10.051
+1
+0.0443
+110.969
+4
+0.635
+Mohabbat Ke (Remix)
+Aksar
+Himesh Reshammiya
+74P9ePdXM4i11PN9ximdLe
+0.00053
+0.647
+320240
+0.912
+0.000102
+2
+0.204
+-9.705
+1
+0.0432
+129.954
+4
+0.572
+Jhalak Dikhla Ja (Unplug)
+Aksar
+Himesh Reshammiya
+19cbMK8v4eOmuvUDyJJyJC
+0.0892
+0.679
+297413
+0.643
+8.84e-05
+0
+0.138
+-11.326
+1
+0.052
+110.945
+4
+0.822
+Dilwale Dulhania Le Jayenge Theme - Instrumental
+Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)
+Jatin-Lalit
+60ON92YSFjEzHljyWsnVHy
+0.0553
+0.436
+26912
+0.961
+0.0921
+11
+0.353
+-7.681
+1
+0.0358
+101.821
+4
+0.974
+Kuch Kuch Hota Hai
+Kuch Kuch Hota Hai
+Jatin-Lalit
+4RixtPhUXlci9ad4qIMj23
+0.602
+0.547
+297867
+0.554
+0.000155
+7
+0.0735
+-11.165
+1
+0.0374
+91.386
+4
+0.848
+Guzarish
+Ghajini
+Javed Ali
+2MvCNH9ua0CeOgUQfZf56z
+0.0925
+0.595
+327030
+0.624
+0
+9
+0.114
+-10.943
+0
+0.0603
+170.001
+4
+0.647
+Muskurane - Romantic
+Citylights (Original Motion Picture Soundtrack)
+Jeet Gannguli
+6fW78cd0p3ZDUzoqvx2Xqe
+0.628
+0.567
+334331
+0.577
+0
+11
+0.132
+-6.197
+0
+0.0264
+101.99
+4
+0.217
+Ae Aa O
+Billu
+Pritam
+51uSQlZ2GYuFWRS3o2vKz6
+0.00433
+0.634
+298481
+0.953
+0.00193
+9
+0.117
+-4.512
+0
+0.075
+129.454
+4
+0.465
+Mujhko Pehchaanlo
+Don 2
+KK
+2OtMj6EZp2KE39ONcoTcEu
+0.115
+0.421
+203757
+0.879
+0.0013
+11
+0.132
+-5.958
+0
+0.104
+113.543
+4
+0.47
+Tu Hi Meri Shab Hai
+Gangster (Original Motion Picture Soundtrack)
+KK
+1Xovys63S9RZl64ZDVnekv
+0.463
+0.571
+389693
+0.734
+0.000691
+9
+0.128
+-6.059
+0
+0.0402
+118.881
+4
+0.552
+Chale Jaise Hawaien
+Main Hoon Na
+KK
+3pRF060IEOI5XSQAvONgSt
+0.0755
+0.75
+324053
+0.861
+0.00586
+1
+0.202
+-11.029
+1
+0.0613
+117.593
+4
+0.744
+Ye Fizaein
+Main Hoon Na
+KK
+5o5uVRFdkgldDIDgnxLFBx
+0.0657
+0.709
+317320
+0.701
+4.95e-05
+6
+0.233
+-7.334
+0
+0.0398
+119.982
+4
+0.594
+Ajab Si
+Om Shanti Om
+KK
+5FXMRdJjKq1BIX4e8Eg9mK
+0.397
+0.697
+241668
+0.438
+0
+8
+0.293
+-8.411
+1
+0.0289
+117.954
+4
+0.58
+Behka
+Ghajini
+Karthik
+0prCd0oIexRBiok6kBOeLp
+0.0696
+0.643
+311057
+0.474
+0.00026
+0
+0.0554
+-11.061
+0
+0.14
+192.01
+4
+0.515
+Koi Mil Gaya
+Kuch Kuch Hota Hai
+Kavita Krishnamurthy
+5L9fLNHSj5SuGvJRljdWJb
+0.503
+0.7
+437693
+0.687
+1.2e-05
+2
+0.057
+-9.292
+1
+0.0504
+136.028
+4
+0.815
+Zara Sa (From "Jannat")
+The Essential Bollywood Hits
+KK
+352hnmCMucGmz4OhIey1Wq
+0.134
+0.464
+303787
+0.909
+0.000239
+11
+0.324
+-3.052
+0
+0.0567
+163.937
+4
+0.699
+Ladki Badi Anjani Hai
+Kuch Kuch Hota Hai
+Kumar Sanu
+6f3C6rJo7zvmfr1h5SRvxg
+0.522
+0.637
+381707
+0.774
+0.0001
+7
+0.0901
+-9.327
+1
+0.056
+121.108
+4
+0.731
+Dil Na Diya
+Krrish
+Kunal Ganjawala
+2PaAG9RNH3HKL57LKc3GJI
+0.0576
+0.733
+354253
+0.933
+0.0691
+7
+0.0615
+-4.583
+1
+0.105
+132.992
+4
+0.696
+Chiggy Wiggy
+Blue
+Kylie Minogue
+4nt1pLbjBHtpHFarYXRHHN
+0.263
+0.501
+310082
+0.69
+0
+4
+0.182
+-6.978
+0
+0.313
+94.058
+4
+0.641
+Tujhe Dekha To
+Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)
+Lata Mangeshkar
+59JemC1a4KDC1WxNAt7Zpt
+0.765
+0.512
+303960
+0.479
+1.79e-05
+4
+0.0648
+-10.765
+0
+0.0378
+97.205
+4
+0.856
+Mere Khwabon Mein
+Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)
+Lata Mangeshkar
+5wyzawAfi1y7Zgsx3jr7MD
+0.633
+0.621
+256440
+0.512
+0
+7
+0.0803
+-11.074
+0
+0.0547
+114.803
+4
+0.925
+Jatt Pagal Karte
+Folk Attack 2
+Lehmber Hussainpuri
+7gTSX0ZtLKl305F1sHMXgT
+0.0708
+0.633
+242813
+0.948
+0.0357
+5
+0.243
+-4.778
+0
+0.0676
+99.994
+4
+0.97
+Sadi Gali
+Tanu Weds Manu
+Lehmber Hussainpuri
+1tEto4JrqNmBZFH5uAiYqb
+0.021
+0.726
+264900
+0.994
+0.0108
+5
+0.222
+-2.433
+0
+0.0543
+129.989
+4
+0.779
+Munni Badnaam
+Dabangg
+Mamta Sharma
+6fORBVECjNDJ1gdq5uuoAz
+0.0873
+0.696
+305017
+0.95
+0.000345
+1
+0.0944
+-4.942
+1
+0.0963
+125.029
+4
+0.743
+Paisa
+De Dana Dan (Original Motion Picture Soundtrack)
+Manak-E
+5waPZcxgliOcZxCjswryDb
+0.137
+0.83
+234387
+0.775
+0
+7
+0.192
+-6.765
+1
+0.103
+105.623
+4
+0.885
+Aahun Aahun
+Love Aaj Kal (Original Motion Picture Soundtrack)
+Master Saleem
+6eEAevjmfFiu5SSvH0DRY8
+0.155
+0.536
+290493
+0.903
+4.99e-05
+1
+0.0641
+-5.501
+0
+0.307
+129.967
+4
+0.657
+Aapka Kya Hoga (Dhanno)
+Housefull
+Mika Singh
+5ogIZnw2wGLe4i69uqmESi
+0.0638
+0.801
+307363
+0.922
+0.000627
+1
+0.349
+-6.562
+1
+0.114
+110.042
+4
+0.788
+Mauja Hi Mauja
+Jab We Met
+Pritam
+2iXVckhPy7tP0wV9DvlrjZ
+0.075
+0.738
+245100
+0.873
+0.0294
+2
+0.225
+-5.659
+1
+0.107
+104.982
+4
+0.484
+Sajh Dhaj Ke
+Mausam
+Pritam
+5HJGzB7sZleFrrDvr0pRo4
+0.277
+0.708
+292328
+0.964
+0
+0
+0.294
+-3.1
+1
+0.0531
+123.966
+4
+0.586
+Gandi Baat
+R... Rajkumar (Original Motion Picture Soundtrack)
+Mika Singh
+2xYTrkiW9gYynSFv5duRiy
+0.204
+0.737
+252473
+0.923
+2.04e-05
+1
+0.0396
+-6.14
+1
+0.32
+188.786
+3
+0.815
+Tum Se Hi
+Jab We Met
+Pritam
+7eQl3Yqv35ioqUfveKHitE
+0.328
+0.609
+321225
+0.538
+0
+6
+0.125
+-7.842
+1
+0.0273
+130.015
+4
+0.608
+Pehli Baar Mohabbat
+Kaminey
+Mohit Chauhan
+58xpZwxUpgrnJMTEmvkZMP
+0.408
+0.522
+321283
+0.478
+0.00131
+9
+0.101
+-10.826
+0
+0.0277
+160.029
+4
+0.576
+Saawariya
+Saawariya (Original Motion Picture Soundtrack)
+Monty Sharma
+5T6yrJuKWnkCH2OlQsoO7z
+0.45
+0.407
+165773
+0.497
+1.74e-05
+9
+0.129
+-8.292
+1
+0.0398
+102.649
+4
+0.764
+Jab Se Tere Naina
+Saawariya (Original Motion Picture Soundtrack)
+Monty Sharma
+0gRNu9dVzi5aC87AI1empZ
+0.362
+0.599
+284573
+0.653
+0
+0
+0.144
+-7.576
+0
+0.122
+79.968
+4
+0.678
+Yoon Shabnami
+Saawariya (Original Motion Picture Soundtrack)
+Monty Sharma
+4GrzhbZQQc9SrU4Vo6J3WY
+0.343
+0.592
+315360
+0.624
+5.54e-06
+5
+0.219
+-9.392
+1
+0.0567
+95.042
+4
+0.707
+Pari
+Saawariya (Original Motion Picture Soundtrack)
+Monty Sharma
+08PjcGdCXUzgkidwba76Ss
+0.349
+0.362
+319067
+0.318
+0.000491
+2
+0.184
+-12.43
+0
+0.0479
+167.81
+4
+0.33
+Aankh Marey (From "Simmba")
+Aankh Marey (From "Simmba")
+Neha Kakkar
+63MvWd6T6yoS7h4AJ4Hjrm
+0.289
+0.796
+212741
+0.978
+0.00254
+5
+0.346
+-1.266
+0
+0.0955
+129.999
+4
+0.8
+Love Mera Hit Hit
+Billu
+Pritam
+2VgbvKdaSOXWByBKYgBsEc
+0.0871
+0.825
+286035
+0.944
+0.0102
+0
+0.345
+-4.98
+1
+0.0382
+104.844
+4
+0.919
+You Get Me Rockin & Reeling
+Billu
+Pritam
+5pMd5QRixmRGmPSSZKn4Ia
+0.104
+0.642
+286427
+0.747
+0
+7
+0.104
+-5.163
+1
+0.0492
+172.037
+4
+0.592
+Heyy Babyy
+Heyy Babyy
+Neeraj Shridhar
+4XUeVYXnrFJIvKnXTAIpBn
+0.0855
+0.866
+274577
+0.788
+0.0596
+11
+0.197
+-6.367
+0
+0.0456
+110.0
+4
+0.794
+Lakh Lakh
+Kambakkht Ishq
+Neeraj Shridhar
+2NBP1dxxf6hyoJfE7kmR0o
+0.056
+0.702
+317347
+0.904
+0.0109
+9
+0.0634
+-5.313
+1
+0.0663
+134.964
+4
+0.753
+Aai Paapi (From "Kismat Konnection")
+Kismat Konnection (Original Motion Picture Soundtrack)
+Neeraj Shridhar
+7Hm2bCSurV5Fn2bdwevmou
+0.127
+0.905
+256540
+0.955
+0.00118
+1
+0.0507
+-6.414
+0
+0.0563
+109.989
+4
+0.793
+Let's Nacho
+Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)
+Nucleya
+4mQpBIJKBpd8lcrtZ73SP8
+0.0906
+0.742
+215076
+0.947
+0.0221
+0
+0.0721
+-3.749
+1
+0.0321
+130.043
+4
+0.88
+Kaisa Ye Raaz Hai
+RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)
+Pranay.M. Rijia
+6VpywY7DEMDSmpiY4tKpwX
+0.0154
+0.513
+377493
+0.76
+0.00181
+11
+0.113
+-7.157
+0
+0.0414
+86.046
+4
+0.316
+The Breakup Song
+Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]
+Pritam
+5FihcmME7NlwW8KbYOaHVH
+0.33
+0.818
+252632
+0.93
+0
+11
+0.658
+-2.982
+1
+0.247
+113.988
+4
+0.831
+Ya Ali
+Gangster
+Pritam
+4fzkreTTYhwq9gUHbWDAU9
+0.186
+0.626
+295800
+0.778
+0
+4
+0.109
+-11.277
+0
+0.0468
+123.005
+4
+0.813
+Haan Tu Hain
+Jannat (Original Motion Picture Soundtrack)
+Pritam
+4vgCpNUUcpEIBifidhQOnR
+0.718
+0.415
+324880
+0.904
+0
+2
+0.0739
+-3.586
+0
+0.104
+83.648
+4
+0.729
+O Meri Jaan
+Life In A Metro (Original Motion Picture Soundtrack)
+Pritam
+6qMB7GsJd7L8sqEvQGWQl6
+0.169
+0.53
+305600
+0.796
+2.87e-05
+7
+0.157
+-6.548
+1
+0.0314
+150.009
+4
+0.547
+Kar Salaam
+Life In A Metro (Original Motion Picture Soundtrack)
+Pritam
+6HRzMSkNA8VwC80OD5Qy40
+0.0162
+0.623
+235200
+0.932
+0
+2
+0.198
+-4.793
+1
+0.108
+107.152
+3
+0.193
+Naina
+Naina
+The PropheC
+69tUnQ7e2X6rNVK57zPYf7
+0.0375
+0.741
+226419
+0.588
+0
+10
+0.0683
+-6.95
+0
+0.0734
+140.019
+4
+0.443
+Hold Me
+Hold Me
+Mickey Singh
+0UIVFgDEenxbfq2g9GqCXu
+0.218
+0.627
+204180
+0.828
+2.16e-05
+7
+0.102
+-4.571
+0
+0.134
+117.882
+4
+0.368
+Yarri Yeah
+Magic
+Mickey Singh
+2Cby9QLsraYQ5Thh7GbxIh
+0.00697
+0.664
+238667
+0.704
+2.92e-06
+8
+0.357
+-4.475
+0
+0.0375
+90.009
+4
+0.421
+Kand
+Magic
+Mickey Singh
+1pZreDKGvA1snK2A1QpXAV
+0.117
+0.605
+242463
+0.715
+0
+7
+0.136
+-6.038
+0
+0.0644
+159.937
+4
+0.243
+TU
+Magic
+Mickey Singh
+5Td0dlx6vXXp7Wt2yrmTJN
+0.168
+0.838
+235897
+0.64
+0
+5
+0.458
+-5.843
+0
+0.0434
+116.968
+4
+0.696
+Magic
+Magic
+Mickey Singh
+3nCpIsFQng80gUWcaLhjG9
+0.0266
+0.676
+203500
+0.767
+0
+5
+0.0983
+-4.158
+0
+0.0376
+113.97
+4
+0.712
+Phone
+Phone
+Mickey Singh
+6MRuNaMaH65vGyek33fXMV
+0.127
+0.448
+212928
+0.693
+2.02e-06
+5
+0.0815
+-5.425
+0
+0.0764
+91.561
+4
+0.55
+Rooftop Party
+Rooftop Party - Single
+Mickey Singh
+6TaEW5sBPPUmkbZmCkFKHi
+0.003
+0.602
+199288
+0.831
+0
+8
+0.149
+-3.349
+0
+0.0619
+105.908
+4
+0.534
+Tumhe Dil Lagi
+Tumhe Dil Lagi
+Mickey Singh
+4Xd3GBnnPKWAWHRQtgvis1
+0.00204
+0.579
+247014
+0.503
+0
+10
+0.0844
+-8.175
+0
+0.0422
+90.058
+4
+0.314
+YTL Yaar Tera LIT
+YTL - Yaar Tera LIT
+Mickey Singh
+0FOttmcxs2gtOhUHB9SmM3
+0.0569
+0.581
+205540
+0.82
+0
+3
+0.167
+-3.697
+0
+0.136
+167.889
+4
+0.446
+Main Hoon Wo Aasman
+Krrish
+Rafaqat Ali Khan
+4lBZSTpKay9ondUDxaCh13
+0.125
+0.633
+403613
+0.581
+0.000825
+1
+0.104
+-7.361
+0
+0.0329
+101.951
+4
+0.122
+Soniyo
+RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)
+Raju Singh
+4J5OpeZUR2msDPfMsIeGSU
+0.504
+0.637
+328440
+0.591
+3.29e-06
+9
+0.135
+-6.117
+1
+0.0342
+119.956
+4
+0.48
+O Jaana
+RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)
+Raju Singh
+6nDsd9LoKLPHv4VcpCG5Wg
+0.0565
+0.708
+269720
+0.826
+0.0104
+2
+0.27
+-5.942
+0
+0.0426
+94.022
+4
+0.623
+O Jaana - The DJ Suketu Dance with Me Mix
+RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)
+Raju Singh
+7Bklue8gfDnzNQ7nHgU6b6
+0.0836
+0.777
+238840
+0.896
+0.000859
+2
+0.176
+-4.415
+0
+0.0291
+114.978
+4
+0.851
+Kabhi Kabhi Aditi
+Jaane Tu... Ya Jaane Na
+Rashid Ali
+3APdIdF8H0jsxSuGOqXedS
+0.276
+0.791
+218836
+0.558
+0
+7
+0.0859
+-7.155
+0
+0.0661
+95.077
+4
+0.872
+Aaoge Jab Tum
+Jab We Met
+Rashid Khan
+3fWMFwaJil8fD14JCgwbcL
+0.185
+0.645
+355066
+0.459
+0
+6
+0.132
+-9.484
+1
+0.0296
+119.987
+4
+0.379
+Char Baj Gaye - Party Abhi Baaki Hai
+F.A.L.T.U (Original Motion Picture Soundtrack)
+Sachin-Jigar
+1eFH9kh7L63Zb8FDqjbwZJ
+0.0317
+0.95
+213880
+0.694
+1.93e-06
+10
+0.137
+-7.089
+0
+0.0516
+119.972
+4
+0.961
+Lucky Tu Lucky Me
+Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)
+Sachin-Jigar
+7wVuc5To4LyVZvZllNSlpB
+0.0195
+0.753
+203019
+0.99
+0
+10
+0.116
+-3.319
+0
+0.0578
+139.99
+4
+0.711
+D Se Dance
+Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)
+Sachin-Jigar
+6tIilLqzatIQU1RDP1kUSu
+0.0154
+0.758
+203960
+0.921
+0.000313
+0
+0.0853
+-4.29
+1
+0.0628
+132.935
+4
+0.916
+Dance Basanti
+Ungli (Original Motion Picture Soundtrack)
+Sachin-Jigar
+1NxlktIRgiAPJ8U06v9veI
+0.166
+0.833
+223992
+0.74
+2.74e-06
+6
+0.363
+-4.513
+0
+0.129
+103.035
+4
+0.804
+Mast Kalandar
+Heyy Babyy
+Saleem Shahzada
+3V3qab2wyi5LjGLjvbV4fD
+0.0773
+0.757
+345788
+0.896
+0.00364
+1
+0.192
+-5.983
+0
+0.0474
+104.013
+4
+0.79
+Tauba Tauba
+Kaal (Original Motion Picture Soundtrack)
+Salim–Sulaiman
+0dfDtMJigXYVWoqNovKPA3
+0.237
+0.696
+305347
+0.876
+8.19e-05
+6
+0.126
+-7.94
+0
+0.144
+99.958
+4
+0.724
+Kurbaan Hua
+Kurbaan (Original Motion Picture Soundtrack)
+Salim–Sulaiman
+1PH0yXNGtSZbL2eufpgFJ4
+0.022
+0.54
+259360
+0.718
+0.000119
+2
+0.248
+-6.169
+0
+0.0429
+166.003
+4
+0.526
+Dus Bahane
+Dus
+Shaan
+1vBmaijoCBoqmwc3zs5n3s
+0.175
+0.833
+206947
+0.917
+1.92e-06
+7
+0.109
+-5.498
+1
+0.0597
+110.001
+4
+0.874
+Aao Milo Chalo
+Jab We Met
+Pritam
+6ocOeSjnWPcSTaSsi0zIdY
+0.412
+0.504
+325934
+0.787
+0
+7
+0.323
+-5.948
+0
+0.0605
+114.772
+4
+0.49
+Move Your Body Now
+Kismat Konnection (Original Motion Picture Soundtrack)
+Shaan
+1knElcYQT1E135uHsny2IL
+0.101
+0.779
+210360
+0.989
+0.00801
+7
+0.336
+-5.124
+1
+0.0565
+120.028
+4
+0.864
+Deewangi Deewangi
+Om Shanti Om
+Shaan
+7emLx4rVwr0tPyjktu7A7U
+0.0289
+0.725
+352388
+0.918
+5.13e-06
+9
+0.602
+-4.875
+1
+0.0447
+107.975
+4
+0.927
+Dil Chahta Hai
+Dil Chahta Hai
+Shankar Mahadevan
+2r1CHpKRDdzHGJScn5UqjX
+0.0906
+0.813
+310080
+0.554
+1.23e-06
+10
+0.0629
+-9.105
+1
+0.04
+103.953
+4
+0.782
+Koi Kahe Kehta Rahe
+Dil Chahta Hai
+Shankar Mahadevan
+5zKRKQwLVBT1WDJE7XJrnm
+0.00166
+0.749
+346200
+0.734
+6.48e-06
+1
+0.108
+-7.058
+1
+0.0594
+131.975
+4
+0.652
+Dil Chahta Hai(Reprise)
+Dil Chahta Hai
+Shankar Mahadevan
+6VD3wtw5kJLyiqrFSRFaKI
+0.263
+0.79
+256987
+0.503
+7.25e-05
+0
+0.0644
+-10.068
+0
+0.0549
+95.931
+4
+0.515
+Move Your Body
+Johnny Gaddaar
+Shankar Mahadevan
+22HJ4YE3pSe2a5udrDRIWz
+0.0201
+0.812
+210880
+0.876
+5.7e-05
+10
+0.338
+-6.447
+1
+0.136
+86.662
+5
+0.863
+Kabhi Alvida Naa Kehna
+Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+4uXShFWajd1PTQzlW3P4jj
+0.752
+0.365
+483920
+0.407
+0.00129
+5
+0.212
+-10.352
+1
+0.0424
+149.161
+4
+0.464
+Mitwa
+Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+4BTPzhEsyW3blWcxcuhLM0
+0.295
+0.63
+382973
+0.63
+1.26e-05
+4
+0.0934
+-7.525
+1
+0.0364
+107.103
+4
+0.517
+Where's the Party Tonight
+Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+6ECucSdJeJmSm3k1k3Vumv
+0.00269
+0.764
+378160
+0.863
+0
+2
+0.27
+-5.414
+0
+0.0416
+132.021
+4
+0.92
+Kal Ho Naa Ho
+Kal Ho Naa Ho (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+251PNRmJU9KcUnFQAB5t6I
+0.334
+0.532
+321240
+0.529
+0.000144
+0
+0.078
+-8.402
+1
+0.0352
+81.989
+4
+0.295
+Maahi Ve
+Kal Ho Naa Ho (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+7Czm0vv2sYL5z4P51KY66e
+0.0297
+0.815
+366853
+0.833
+2e-05
+7
+0.33
+-6.117
+0
+0.0769
+99.989
+4
+0.563
+Kuch To Hua Hai
+Kal Ho Naa Ho (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+0Kd2IhGYGYrOATgOOnDBzI
+0.128
+0.674
+319560
+0.661
+2.03e-05
+7
+0.283
+-7.973
+1
+0.0618
+95.967
+4
+0.458
+Heartbeat - Instrumental
+Kal Ho Naa Ho (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+3n7qJSOyVke4JagcJ8FiSG
+0.599
+0.517
+263627
+0.285
+0.461
+10
+0.0842
+-11.239
+1
+0.0294
+139.93
+4
+0.166
+Sajdaa
+My Name Is Khan (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+5upmbnXemLfPvs3d2eyHml
+0.726
+0.468
+365707
+0.737
+0.00272
+8
+0.0655
+-7.274
+1
+0.0765
+79.448
+4
+0.572
+Noor E Khuda
+My Name Is Khan (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+0tY8ZIArzjkH6dbXp42ohg
+0.708
+0.549
+397080
+0.533
+0.00147
+2
+0.12
+-8.41
+1
+0.0307
+114.847
+4
+0.216
+Tere Naina
+My Name Is Khan (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+1AXQ4ZCUueIfGGEYAdq9Pe
+0.558
+0.522
+278547
+0.74
+0
+0
+0.144
+-7.018
+1
+0.0465
+92.618
+4
+0.732
+Maahi
+RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)
+Shaarib Toshi
+4bIQXffbALkCC0Xo6aTicP
+0.736
+0.463
+329107
+0.84
+0
+9
+0.351
+-4.035
+0
+0.0955
+153.941
+4
+0.385
+Deewani Mastani (From "Bajirao Mastani")
+Bajirao Mastani (Original Motion Picture Soundtrack)
+Shreya Ghoshal
+7IP72Pw6reOTDZrpLVtOFT
+0.481
+0.531
+340232
+0.865
+0
+1
+0.22
+-3.389
+0
+0.0536
+79.97
+4
+0.582
+Khudaya Khair
+Billu
+Pritam
+2XYyriLyJSuGj4FN7QoNmM
+0.45
+0.573
+280558
+0.746
+0
+7
+0.162
+-5.699
+1
+0.0705
+171.949
+4
+0.807
+Aal Izz Well
+3 Idiots
+Sonu Nigam
+7L5f7f89fGs2LaFHGwFoCj
+0.401
+0.799
+274497
+0.877
+0
+10
+0.136
+-6.615
+0
+0.127
+120.011
+4
+0.624
+Dillagi Main Jo Beet Jaye
+Aashiq Banaya Aapne
+Sonu Nigam
+7gA8vO4KhJ8iJpns5qTUYS
+0.0438
+0.848
+253600
+0.95
+0
+11
+0.171
+-4.649
+0
+0.153
+136.054
+4
+0.865
+Tanhayee
+Dil Chahta Hai
+Sonu Nigam
+5HXJV5FjXdfUk3UFBTg8Fe
+0.104
+0.638
+369547
+0.413
+0
+8
+0.107
+-10.56
+1
+0.0602
+96.986
+4
+0.145
+Nacha Main
+Jaane Kahan Se Aayi Hai
+Sonu Nigam
+57a2GZdXL4q0dpXgtoEnUr
+0.00166
+0.692
+291550
+0.963
+5.46e-05
+11
+0.0983
+-4.747
+0
+0.0573
+134.977
+4
+0.942
+Nagada Nagada
+Jab We Met
+Pritam
+2W6bC4K4e6y42HnYTA5yHO
+0.158
+0.757
+228469
+0.942
+0.00784
+9
+0.507
+-4.13
+0
+0.0461
+120.004
+4
+0.728
+Pyaar Ki Ek Kahani
+Krrish
+Sonu Nigam
+6mqTUI7ucRJrVvoXLrDNRe
+0.308
+0.698
+388707
+0.844
+5.38e-05
+6
+0.0707
+-4.661
+1
+0.0645
+79.973
+4
+0.82
+Koi Tumsa Nahin
+Krrish
+Sonu Nigam
+7mHS2rAwnUCc4OLyB3dwLr
+0.17
+0.663
+375347
+0.762
+1.06e-05
+5
+0.107
+-4.095
+1
+0.0326
+140.022
+4
+0.553
+Main Hoon Na
+Main Hoon Na
+Sonu Nigam
+0v7rJIwQ2xeB1W19eU5IQS
+0.284
+0.48
+361067
+0.681
+0
+5
+0.125
+-8.002
+1
+0.163
+88.003
+4
+0.74
+Tumse Milke Dil Ka
+Main Hoon Na
+Sonu Nigam
+1ax8ZuwRVkSdzzsIqyCNWQ
+0.0642
+0.853
+359253
+0.745
+1.87e-06
+9
+0.0274
+-8.636
+0
+0.109
+107.985
+4
+0.882
+Aaja Soniye
+Mujhse Shaadi Karogi
+Sonu Nigam
+6loBU3j6zvULZMIlD7n4JW
+0.204
+0.473
+298280
+0.942
+0.000469
+7
+0.132
+-4.709
+1
+0.0747
+90.998
+4
+0.793
+Ishq Di Galli Vich (From "No Entry")
+No Entry (Original Motion Picture Soundtrack)
+Sonu Nigam
+7nR3EzYSCAAPvORTKp47hC
+0.0454
+0.769
+368840
+0.905
+0.0485
+7
+0.168
+-6.322
+1
+0.0396
+132.023
+4
+0.633
+Main Agar Kahoon
+Om Shanti Om
+Sonu Nigam
+0iXLwnLmLwn9y54JtBTNxY
+0.234
+0.533
+308158
+0.436
+3.17e-06
+5
+0.46
+-7.521
+0
+0.0276
+146.868
+3
+0.371
+Aaj Ki Raat
+Slumdog Millionaire - Music From The Motion Picture
+Sonu Nigam
+5rFUcI7XGWIC8BfFMXaEUA
+0.00918
+0.725
+367413
+0.832
+0.00461
+1
+0.129
+-6.191
+0
+0.0902
+136.99
+4
+0.856
+Cham Cham
+Striker
+Sonu Nigam
+5aKldU024Oub7TJ0iCR2yi
+0.411
+0.339
+430359
+0.522
+0
+7
+0.144
+-6.418
+1
+0.0289
+83.191
+1
+0.34
+Marjaani
+Billu
+Pritam
+2nNaw1QUcqiEX6pBFxcpp3
+0.0693
+0.773
+323942
+0.951
+0.0083
+11
+0.321
+-4.054
+0
+0.0577
+109.427
+4
+0.603
+Dhan Te Nan
+Kaminey
+Sukhwinder Singh
+2BOY77LvMTUOfLcnfFAJGl
+0.0227
+0.766
+279934
+0.809
+0.000166
+4
+0.0796
+-6.206
+1
+0.161
+91.987
+4
+0.803
+Gazab
+Aa Dekhen Zara
+Sunidhi Chauhan
+17xeyhLPJcyywTHzRwPkdq
+0.117
+0.896
+248467
+0.939
+0
+8
+0.0342
+-2.388
+1
+0.222
+121.971
+4
+0.725
+Rock The Party
+Aa Dekhen Zara
+Sunidhi Chauhan
+0qke9ep1LfxZvPHETd3N2e
+0.0171
+0.675
+309160
+0.988
+0.123
+9
+0.361
+-6.152
+0
+0.144
+135.027
+4
+0.257
+Sheila Ki Jawani
+Tees Maar Khan
+Sunidhi Chauhan
+6VbmeIWTbNHM5uqoW7GTE4
+0.305
+0.803
+281707
+0.859
+6.18e-05
+6
+0.553
+-4.405
+0
+0.185
+101.007
+4
+0.631
+Dushman Mera
+Don 2
+Sunitha Sarathy
+5eEBl4sXMWBp7Sk3oRKydj
+0.0806
+0.665
+223679
+0.86
+7.31e-05
+11
+0.0599
+-6.431
+0
+0.0451
+135.048
+4
+0.739
+Jaadu Teri Nazar
+Darr (Original Motion Picture Soundtrack)
+Udit Narayan
+1mAO7s2X1VfYwNDWIcvdhS
+0.401
+0.603
+279910
+0.688
+4.57e-05
+6
+0.104
+-13.12
+0
+0.0458
+87.839
+4
+0.682
+Jaane Kyon Log Pyar
+Dil Chahta Hai
+Udit Narayan
+2NouPVwXUlBF0wDm5bpAbp
+0.0185
+0.607
+289387
+0.526
+0.00173
+4
+0.227
+-9.111
+1
+0.066
+190.019
+4
+0.341
+Ruk Ja O Dil Deewane
+Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)
+Udit Narayan
+619BqiArColRhmckgCGoG3
+0.694
+0.623
+312333
+0.749
+0.000573
+11
+0.116
+-10.703
+0
+0.0697
+106.205
+4
+0.903
+Chori Chori Chupke Chupke
+Krrish
+Udit Narayan
+5prtJKbJjuQlwmBDfVI5ko
+0.213
+0.41
+388227
+0.695
+3.51e-06
+6
+0.0644
+-4.88
+1
+0.0853
+89.116
+4
+0.642
+Yeh Ladka Hai Deewana
+Kuch Kuch Hota Hai
+Udit Narayan
+41Vl2OoM83VVe0eePpsgUf
+0.289
+0.516
+397533
+0.757
+7.21e-06
+2
+0.367
+-9.404
+1
+0.0551
+124.061
+4
+0.711
+Kyon Ki Itna Pyar
+Kyon Ki - It's Fate
+Udit Narayan
+2Cy0T0n18rleVVr2O5BIWA
+0.468
+0.602
+356480
+0.819
+0
+2
+0.1
+-5.43
+0
+0.0929
+82.027
+4
+0.429
+Yun Hi Chala Chal
+Swades
+Udit Narayan
+3GrTI5vAoDD3VE24VTBJAc
+0.0593
+0.822
+446987
+0.687
+0
+9
+0.0609
+-8.167
+1
+0.0421
+106.47
+4
+0.816
+Malhari (From "Bajirao Mastani")
+Bajirao Mastani (Original Motion Picture Soundtrack)
+Vishal Dadlani
+7EvAlx0lOLbZgCKH50wnUU
+0.0592
+0.507
+244048
+0.932
+0
+1
+0.302
+-4.501
+0
+0.0762
+114.961
+3
+0.311
+One Two Three Four (Get On The Dance Floor)
+Chennai Express
+Vishal Dadlani
+3XyFQxpSlGowWpZkIn3ISA
+0.0885
+0.721
+228323
+0.867
+0.000119
+6
+0.0372
+-5.429
+0
+0.225
+170.091
+4
+0.87
+Balam Pichkari
+Yeh Jawaani Hai Deewani
+Pritam
+18e3XXYCv4Tx8uUl1mP3CN
+0.209
+0.732
+288903
+0.944
+0
+0
+0.401
+-4.115
+1
+0.09
+120.02
+4
+0.957
+Tu Meri
+Bang Bang (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+39TJkE0AEkfWii8VB3JqSV
+0.0773
+0.679
+257089
+0.688
+0
+8
+0.704
+-5.522
+1
+0.0293
+127.951
+4
+0.424
+Meherbaan
+Bang Bang (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+6MOtIjvSdqWDGHuniwSpyu
+0.629
+0.591
+307407
+0.531
+3.87e-06
+4
+0.499
+-8.677
+0
+0.0472
+80.971
+4
+0.478
+Bang Bang
+Bang Bang (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+5R7HpWXej6SiCrd9YJsC5g
+0.0478
+0.703
+320000
+0.678
+7.02e-05
+4
+0.496
+-8.644
+0
+0.0417
+120.051
+4
+0.694
+Jaane Kyun
+Dostana (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+6M2UnI1LnXuXlWU54CKmKx
+0.0573
+0.778
+277987
+0.812
+8.28e-06
+4
+0.243
+-8.561
+0
+0.046
+99.962
+4
+0.791
+Shut Up & Bounce
+Dostana (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+7JFIDJAi9RoCn0JYavNLRG
+0.00269
+0.578
+277493
+0.857
+0.263
+2
+0.141
+-7.272
+1
+0.0648
+121.981
+4
+0.904
+Khabar Nahi
+Dostana (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+7Esjmr77c4SU5IlMtym7Ho
+0.153
+0.622
+259120
+0.758
+0
+7
+0.0622
+-6.641
+1
+0.11
+90.951
+4
+0.436
+Drama Queen
+Hasee Toh Phasee (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+7xxxQG1BupSnOBo4qId9kl
+0.0137
+0.705
+198747
+0.913
+0
+7
+0.329
+-6.709
+1
+0.0788
+145.948
+4
+0.955
+Zehnaseeb
+Hasee Toh Phasee (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+3xF15SqY32Mno3UUMBirhU
+0.361
+0.623
+217440
+0.595
+0.000136
+7
+0.353
+-6.342
+1
+0.0331
+78.029
+4
+0.418
+Ishq Bulaava
+Hasee Toh Phasee (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+1fkjRQA8wXPPyxqYLbxuqy
+0.617
+0.579
+303640
+0.713
+3.33e-05
+7
+0.118
+-7.334
+1
+0.0318
+159.915
+3
+0.635
+Jab Mila Tu
+I Hate Luv Storys (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+6Sp7azay1NZU4wxlFacWCl
+0.0482
+0.626
+251853
+0.561
+0
+9
+0.304
+-6.644
+0
+0.0304
+167.916
+4
+0.794
+I Hate Luv Storys
+I Hate Luv Storys (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+4zUPL2OPTO3hgNhjaA1Rjn
+0.0688
+0.747
+285213
+0.81
+0.0405
+11
+0.0592
+-8.352
+0
+0.0541
+130.012
+4
+0.937
+Bahara
+I Hate Luv Storys (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+1gwO79MdYdumgIjxq8eCxB
+0.0716
+0.595
+325707
+0.739
+6.98e-06
+5
+0.134
+-6.733
+1
+0.0359
+87.834
+4
+0.722
+Sadka
+I Hate Luv Storys (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+4dPeCbg2Op44s9kwyMS3ZT
+0.232
+0.678
+343587
+0.547
+0.000176
+7
+0.0785
+-6.89
+1
+0.0286
+143.892
+4
+0.579
+Bin Tere - Reprise
+I Hate Luv Storys (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+7zG4akZAie70mOCMmtoacS
+0.876
+0.452
+220147
+0.249
+2.3e-05
+0
+0.115
+-10.163
+1
+0.0299
+149.599
+4
+0.419
+Om Shanti Om (Instrumental)
+Om Shanti Om
+Vishal-Shekhar
+4kqUlN3craCx3ZIBIfhp2X
+0.976
+0.524
+56906
+0.293
+0.963
+9
+0.0997
+-14.433
+0
+0.0353
+120.016
+4
+0.2
+Ratta Maar
+Student of the Year (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+24wb8Da2xkll8xZTjz0P6J
+0.165
+0.741
+210880
+0.711
+0
+2
+0.0446
+-8.402
+1
+0.0407
+124.987
+4
+0.677
+Radha
+Student of the Year (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+6f7zyAEUCZuvX4Zty62Z5o
+0.11
+0.804
+341360
+0.748
+0
+1
+0.0998
+-14.163
+0
+0.0616
+131.989
+4
+0.699
+The Disco Song
+Student of the Year (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+3UaP2PQwhA31keZXt7oPLA
+0.0102
+0.69
+342093
+0.939
+0.0288
+10
+0.12
+-6.441
+0
+0.0583
+125.006
+4
+0.615
+Kukkad
+Student of the Year (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+7DbE178OOsJfJKyiNObOsw
+0.0902
+0.719
+262867
+0.835
+0.00431
+9
+0.331
+-7.391
+1
+0.0426
+139.985
+4
+0.961
+Vele
+Student of the Year (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+31phvnfUfwzi0nf3dO814j
+0.0166
+0.833
+230547
+0.754
+0
+2
+0.246
+-7.555
+1
+0.0513
+108.001
+4
+0.65
+Humka Peeni Hai
+Dabangg
+Wajid
+08dWCKcPuFjUsAkJt4tnaW
+0.126
+0.753
+313841
+0.941
+3.29e-05
+11
+0.162
+-5.174
+0
+0.0916
+122.015
+4
+0.814
+Ye Ishq Hai
+Jab We Met
+Pritam
+4BiPsAV070dg3eLSVf727A
+0.434
+0.823
+280974
+0.638
+2.09e-06
+5
+0.255
+-7.126
+0
+0.159
+118.045
+4
+0.882
+Kaisi Hai Ye Rut
+Dil Chahta Hai
+Srinivas
+4x6hxkEuw1XLIwUkUJcDbf
+0.551
+0.564
+328067
+0.612
+1.12e-05
+2
+0.0915
+-9.119
+1
+0.0312
+126.899
+4
+0.13
+Dhoom Taana
+Om Shanti Om
+Shreya Ghoshal
+4eKWtXoGajnaGKvKAcgc8f
+0.127
+0.8
+373357
+0.881
+0.00011
+0
+0.0976
+-6.077
+1
+0.0502
+107.998
+4
+0.81
+Nagada Sang Dhol
+Ram-Leela (Original Motion Picture Soundtrack)
+Shreya Ghoshal
+4ila6GeGBPGmJTGRoHOV5E
+0.266
+0.73
+273319
+0.944
+0.00443
+3
+0.0354
+-3.48
+0
+0.164
+113.309
+3
+0.657
+Ghagra
+Yeh Jawaani Hai Deewani
+Pritam
+5YY8EsBdUYAg1NJQIvgCEj
+0.223
+0.706
+304307
+0.919
+0
+8
+0.319
+-5.21
+1
+0.174
+101.94
+4
+0.701
+Hadippa
+Dil Bole Hadippa
+Pritam
+6ukoIMQf2NzLAXqJVA4b8O
+0.233
+0.801
+246544
+0.879
+0.00566
+1
+0.034
+-6.305
+1
+0.0711
+111.995
+4
+0.962
+Discowale Khisko
+Dil Bole Hadippa
+Pritam
+3eu9JkPNIsK4vsLj1WN7Li
+0.022
+0.774
+265012
+0.957
+0.482
+2
+0.0593
+-5.863
+1
+0.0436
+113.993
+4
+0.962
+Ishq Hi Hai Rab
+Dil Bole Hadippa
+Pritam
+6Yp3l3oDpi5TmxSNTBR1wr
+0.35
+0.693
+323709
+0.803
+7.55e-05
+1
+0.0916
+-8.233
+0
+0.108
+96.947
+4
+0.749
+Suraj Hua Maddham
+Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)
+Sandesh Shandilya
+0mWtcNIAL9jITVHl3F2SQF
+0.329
+0.633
+427547
+0.691
+0.000211
+5
+0.134
+-5.851
+1
+0.0557
+80.002
+4
+0.57
+Yaad Kar
+The Season
+The PropheC
+3B9VVt0GgZdB5nyeLj1Ci4
+0.177
+0.911
+170149
+0.438
+0
+6
+0.0854
+-9.436
+0
+0.0718
+111.959
+4
+0.598
+Khuda Jaane
+Bachna Ae Haseeno
+Vishal-Shekhar
+0gPgdRfB4jdGrlyXS0Vx78
+0.391
+0.382
+333584
+0.632
+0.000486
+8
+0.0922
+-6.393
+1
+0.0411
+78.936
+4
+0.716
+Aahista Aahista
+Bachna Ae Haseeno
+Vishal-Shekhar
+6yrIAJ4yMPzq8Vsu1d3CXg
+0.187
+0.68
+291605
+0.818
+0.419
+9
+0.289
+-9.144
+0
+0.0382
+125.995
+4
+0.598
+Dhoom Dhoom
+Dhoom
+Pritam
+680su2851wO74z7uNBcAbF
+0.0208
+0.63
+261590
+0.905
+0.258
+11
+0.377
+-6.043
+0
+0.0879
+101.431
+4
+0.512
+Shikdum
+Dhoom
+Pritam
+6BJxQbKyQSdBOBIuW5TTmi
+0.156
+0.703
+327576
+0.866
+0.00527
+7
+0.145
+-5.637
+1
+0.061
+93.839
+4
+0.535
+Dilbara
+Dhoom
+Pritam
+4kUWdUJZnxWMxY31AzorKa
+0.251
+0.87
+272170
+0.747
+0
+6
+0.0532
+-5.971
+0
+0.118
+130.032
+4
+0.817
+Salaame
+Dhoom
+Pritam
+26VnEKps0l0JWIrdx2E62G
+0.0945
+0.767
+317753
+0.911
+8.44e-05
+7
+0.257
+-6.193
+1
+0.0976
+117.945
+4
+0.61
+Main Hoon Don
+Don
+Shaan
+3FrzIfTz8mMS8Xowzu3ZUj
+0.0167
+0.651
+330133
+0.687
+1.86e-05
+9
+0.0809
+-8.674
+1
+0.0445
+120.015
+4
+0.186
+Aaj Ki Raat
+Don
+Alisha Chinai
+4bPF3oy4JsKK1UeMMn7Byf
+0.00992
+0.738
+368480
+0.823
+0.00627
+1
+0.0871
+-6.966
+0
+0.0658
+137.0
+4
+0.923
+Main Hoon Don (Funcinternational Mix)
+Don
+Shaan
+1ms15sXc0I0fk8gfbqEmw6
+0.0142
+0.699
+314840
+0.837
+0.0766
+11
+0.103
+-6.759
+0
+0.059
+125.031
+4
+0.197
+Crazy Kiya Re
+Dhoom:2
+Pritam
+0se928CIhZPlfVGi3A6zrx
+0.143
+0.759
+294505
+0.938
+3.97e-06
+11
+0.402
+-5.387
+1
+0.123
+92.017
+4
+0.81
+Touch Me
+Dhoom:2
+Pritam
+6Niy4LfcTcvJJkzfLz5W1B
+0.264
+0.788
+318067
+0.86
+0.000321
+6
+0.0687
+-5.988
+0
+0.048
+104.982
+4
+0.853
+My Name Is Ali
+Dhoom:2
+Pritam
+6bSNrBb2dphwMEW9xONRNt
+0.323
+0.631
+274704
+0.635
+0
+11
+0.11
+-6.986
+0
+0.0842
+62.588
+4
+0.762
+Dil Laga Na
+Dhoom:2
+Pritam
+3LdZ1fFzohRUbcNI9sa8jV
+0.161
+0.782
+304771
+0.953
+1.97e-06
+7
+0.0491
+-5.442
+1
+0.162
+101.997
+4
+0.477
+Pallo Latke
+Shaadi Mein Zaroor Aana
+Jyotica Tangri
+6JNluWWlzWmrW1LKR5X2SN
+0.0605
+0.759
+296829
+0.903
+6.29e-06
+4
+0.232
+-6.132
+0
+0.0725
+110.004
+4
+0.628
+Chogada (From "Loveyatri")
+Chogada (From "Loveyatri")
+Darshan Raval
+4ymPEyiXabTe1NO8q8EFxG
+0.136
+0.359
+249742
+0.972
+2.52e-06
+7
+0.14
+-3.452
+1
+0.109
+62.914
+4
+0.595
+Mumbai Dilli Di Kudiyaan
+Student of the Year 2
+Vishal-Shekhar
+7BIE80fFY0ARACh4HsHXcT
+0.0728
+0.777
+209161
+0.92
+0.0101
+6
+0.144
+-3.918
+1
+0.039
+134.029
+4
+0.61
+First Class
+Kalank (Original Motion Picture Soundtrack)
+Pritam
+7s0qlp1ibUxVXLsOM0YWia
+0.449
+0.534
+276960
+0.959
+0
+1
+0.354
+-3.67
+0
+0.361
+187.576
+3
+0.751
+Coca Cola (From "Luka Chuppi")
+Coca Cola (From "Luka Chuppi")
+Tony Kakkar
+352wEkChkiClswqwDoM0nj
+0.121
+0.722
+179225
+0.867
+0.0052
+0
+0.123
+-3.652
+0
+0.0904
+102.009
+4
+0.893
+The Jawaani Song
+Student of the Year 2
+Vishal-Shekhar
+3IzQc4KEAFd8lIc90X7FZr
+0.0728
+0.71
+253161
+0.801
+0
+7
+0.0744
+-4.845
+1
+0.0896
+145.102
+4
+0.845
+Tujh Mein Rab Dikhta Hai
+Rab Ne Bana Di Jodi (Original)
+Roop Kumar Rathod
+2LcXJP95e4HKydTZ2mYfrx
+0.315
+0.56
+281574
+0.604
+1.12e-06
+8
+0.176
+-8.732
+1
+0.0866
+84.784
+4
+0.75
+Haule Haule
+Rab Ne Bana Di Jodi (Original)
+Sukhwinder Singh
+2UKK9UEbKlykbmLVP1zWIQ
+0.541
+0.712
+263967
+0.776
+2.17e-06
+5
+0.0896
+-7.424
+0
+0.213
+89.934
+4
+0.96
+Dance Pe Chance
+Rab Ne Bana Di Jodi (Original)
+Sunidhi Chauhan
+5EqggGHTuqiUfruO2gMHhI
+0.138
+0.884
+261016
+0.893
+0.000922
+5
+0.0614
+-6.141
+0
+0.162
+128.024
+4
+0.937
+Phir Milenge Chalte Chalte
+Rab Ne Bana Di Jodi (Original)
+Sonu Nigam
+00slEv0AYGnW85H84XsmGz
+0.178
+0.778
+394162
+0.737
+6.83e-06
+0
+0.0632
+-7.073
+1
+0.195
+125.031
+4
+0.9
+Ek Do Teen
+Baaghi 2
+Shreya Ghoshal
+1gHbvt2Q3Br0mZcCEQa8GH
+0.0491
+0.666
+243603
+0.919
+5.73e-06
+10
+0.531
+-5.389
+0
+0.0661
+102.756
+3
+0.644
+Main Yahaan Hoon
+Veer - Zaara
+Madan Mohan
+3OAFzjwWionh8OfM4kgf2R
+0.69
+0.484
+295158
+0.788
+0.0132
+4
+0.0939
+-7.625
+0
+0.0565
+171.973
+4
+0.741
+Ladki Kyon
+Hum Tum
+Jatin-Lalit
+0U9a0NZ8UQpnix2lBElFAx
+0.639
+0.76
+378044
+0.83
+0
+6
+0.109
+-6.868
+0
+0.28
+93.401
+4
+0.907
+Chak De
+Hum Tum
+Jatin-Lalit
+7kTDTw5oX657IHsmkXvnjJ
+0.253
+0.839
+345757
+0.935
+1.29e-05
+7
+0.12
+-5.823
+1
+0.0806
+106.997
+4
+0.946
+Hum Tum
+Hum Tum
+Jatin-Lalit
+6YRbDkyTzsizAWFz8kwiI7
+0.381
+0.465
+329221
+0.682
+0.00041
+4
+0.0801
+-8.124
+1
+0.0512
+164.01
+4
+0.583
+Gore Gore
+Hum Tum
+Jatin-Lalit
+2kH6gNYPqlLZdGxrt7Pmc6
+0.153
+0.762
+296359
+0.878
+2.35e-05
+2
+0.071
+-4.999
+1
+0.083
+100.998
+4
+0.951
+Yaara Yaara
+Hum Tum
+Jatin-Lalit
+0oaF3jKUzt03X2Ze06jxt3
+0.316
+0.831
+283350
+0.921
+1.09e-06
+2
+0.0511
+-4.612
+0
+0.0762
+107.981
+4
+0.89
+U-N-I (Mere Dil Vich Hai Hum Tum)
+Hum Tum
+Veronica Mehta
+32aiiYZCcgJpXmrotqRjdQ
+0.0195
+0.799
+217548
+0.844
+0.0018
+7
+0.26
+-6.341
+1
+0.0578
+102.971
+4
+0.827
+Des Rangila
+Fanaa
+Jatin-Lalit
+4qYGnK9axn6vydZqkoJ7VD
+0.427
+0.667
+318093
+0.831
+0
+11
+0.336
+-7.94
+0
+0.0937
+106.01
+4
+0.832
+Chand Sifarish
+Fanaa
+Jatin-Lalit
+5EYZZvmNAH5VZCwuzYJqoA
+0.242
+0.829
+275931
+0.665
+1.75e-05
+2
+0.123
+-8.128
+1
+0.0868
+122.043
+4
+0.861
+Ek Do Teen Char
+Tezaab
+Alka Yagnik
+3yRoV3XxY866zW6PZuwzXy
+0.612
+0.423
+457280
+0.903
+1.43e-05
+1
+0.923
+-7.596
+1
+0.149
+130.675
+4
+0.774
+Hey Shona
+Ta Ra Rum Pum
+Vishal-Shekhar
+2H9SvhMVXSYPxxkQgzkTKp
+0.125
+0.657
+319295
+0.601
+0.0252
+6
+0.0885
+-8.668
+0
+0.0374
+75.004
+4
+0.89
+Tu Jahaan
+Salaam Namaste
+Vishal-Shekhar
+43mkwVcwLqUsFZwLi7boi1
+0.503
+0.612
+315768
+0.617
+0.00513
+5
+0.0851
+-8.962
+0
+0.049
+77.967
+4
+0.445
+Whats Goin' On
+Salaam Namaste
+Vishal-Shekhar
+0gppNZWfx8wcihqvugfB8R
+0.106
+0.833
+280398
+0.714
+2.36e-05
+0
+0.315
+-6.972
+1
+0.0597
+105.017
+4
+0.555
+My Dil Goes Mmmm
+Salaam Namaste
+Vishal-Shekhar
+3Uv8BQFN3bQfhkregyMbnx
+0.343
+0.693
+452833
+0.797
+0.00125
+6
+0.0673
+-7.392
+0
+0.0704
+90.997
+4
+0.706
+Salaam Namaste
+Salaam Namaste
+Vishal-Shekhar
+7fuze7SkVTRISfwqErqJCn
+0.217
+0.69
+276167
+0.868
+0
+5
+0.325
+-6.472
+1
+0.0889
+96.99
+4
+0.69
+Crazy Remix
+Dhoom:2
+Pritam
+5TlSLmMmPjwnuDA7bIxbfa
+0.00663
+0.725
+238028
+0.892
+8.69e-05
+11
+0.625
+-7.413
+0
+0.0628
+110.025
+4
+0.682
+Dhoom Again
+Dhoom:2
+Pritam
+5IUP91X8fKfJnWQgCHT9dN
+0.164
+0.831
+302707
+0.932
+0
+7
+0.383
+-6.251
+1
+0.221
+99.97
+4
+0.571
+Bunty Aur Babli
+Bunty Aur Babli
+Shankar
+4o08tZyCpk2exnO9HGoAO5
+0.223
+0.796
+343118
+0.906
+1.85e-06
+0
+0.0609
+-4.025
+1
+0.0483
+127.957
+4
+0.392
+Nach Baliye
+Bunty Aur Babli
+Shankar
+7AJtoJnHV80IMEHgQs6YvU
+0.029
+0.691
+362762
+0.916
+0
+9
+0.121
+-5.313
+1
+0.117
+133.889
+4
+0.394
+Chup Chup Ke
+Bunty Aur Babli
+Shankar
+2C6l8EGcbfcLXu0mWfAadB
+0.339
+0.715
+433920
+0.743
+0.00217
+6
+0.0983
+-7.491
+0
+0.0337
+116.962
+4
+0.259
+Dhadak Dhadak
+Bunty Aur Babli
+Shankar
+6kOuIhlzgPlqlrWPudpSHL
+0.304
+0.76
+392411
+0.807
+0
+6
+0.11
+-5.603
+1
+0.0866
+113.975
+4
+0.562
+Koi Mil Gaya
+Koi Mil Gaya
+Udit Narayan
+2NajR0sO4JSW4irQLr0fmI
+0.382
+0.738
+335977
+0.334
+8.71e-06
+11
+0.158
+-15.744
+1
+0.0561
+124.981
+4
+0.628
+Morni Banke (From "Badhaai Ho")
+Morni Banke (From "Badhaai Ho")
+Guru Randhawa
+2Wu9PNpLUCBl3W1GaPqkhl
+0.178
+0.816
+198026
+0.922
+0
+11
+0.373
+-2.963
+0
+0.149
+95.006
+4
+0.887
+Kamariya
+Stree
+Aastha Gill
+5cjVsWqIkBQC7acTRhL0RO
+0.143
+0.825
+187983
+0.666
+2.81e-06
+4
+0.237
+-4.847
+0
+0.0554
+96.987
+4
+0.763
+Senorita
+Zindagi Na Milegi Dobara
+Farhan Akhtar
+3TAhWtQnpoL5Vl9VQPl9fU
+0.134
+0.701
+229576
+0.681
+0
+9
+0.064
+-6.442
+1
+0.0466
+122.539
+4
+0.81
+Tum Hi Ho Bandhu (From "Cocktail")
+Cocktail
+Neeraj Shridhar
+2zZTXtLqCsICzEcztKjn47
+0.00145
+0.714
+282012
+0.892
+0.000817
+11
+0.0462
+-5.342
+0
+0.0516
+134.997
+4
+0.899
+Dil Haara
+Tashan
+Vishal-Shekhar
+5wIwMpBfTKoGmuOphrYrum
+0.382
+0.466
+352000
+0.778
+1.33e-06
+0
+0.0359
+-7.174
+0
+0.115
+99.981
+4
+0.596
+Sweetheart
+Kedarnath
+Dev Negi
+6qrb4ganbSTzcDDOo1pzMT
+0.376
+0.768
+212196
+0.806
+1.65e-06
+8
+0.0787
+-6.277
+1
+0.0517
+123.039
+4
+0.925
+Ghungroo
+War
+Vishal-Shekhar
+6EAMI8iHwC3TCSBGVKoWng
+0.0744
+0.695
+302935
+0.727
+0.000175
+6
+0.533
+-6.274
+0
+0.0323
+118.034
+4
+0.864
+Oh My Darling
+Mujhse Dosti Karoge
+Alisha Chinai
+5Ktg3vD5Nu8vHEFfHGpDns
+0.0396
+0.695
+367464
+0.932
+0.000584
+5
+0.12
+-9.541
+0
+0.0673
+139.836
+4
+0.596
+O Saki Saki (From "Batla House")
+O Saki Saki (From "Batla House")
+Neha Kakkar
+4cFwhwH5ydnHgB0Tv3lZsm
+0.163
+0.737
+191089
+0.961
+0
+10
+0.361
+-0.155
+0
+0.0747
+108.014
+4
+0.567
+The Hook Up Song
+Student of the Year 2
+Vishal-Shekhar
+1bLNqR3bqpyWkwWKECjVrw
+0.131
+0.846
+213947
+0.786
+0.000384
+1
+0.0835
+-4.607
+1
+0.0519
+106.023
+4
+0.523
+Ek Toh Kum Zindagani (From "Marjaavaan")
+Ek Toh Kum Zindagani (From "Marjaavaan")
+Neha Kakkar
+6oDHAjaJJjwwgoAuMIeY9K
+0.0579
+0.668
+190346
+0.965
+0.000867
+7
+0.0566
+-2.293
+1
+0.091
+128.012
+4
+0.722
+Right Here Right Now
+Bluff Master (Original Motion Picture Soundtrack)
+Abhishek Bachchan
+4pVnxSz312uhq2hM3b8CAO
+0.0796
+0.854
+182533
+0.449
+0.015
+10
+0.111
+-10.762
+1
+0.0939
+93.998
+4
+0.533
+Chaska
+Badmaash Company
+Pritam
+4NXCb9SiScRgMqlUnPwdKE
+0.506
+0.832
+314227
+0.822
+1.6e-06
+7
+0.214
+-10.496
+1
+0.0565
+100.004
+4
+0.927
+Bekhayali (From "Kabir Singh")
+Bekhayali (From "Kabir Singh")
+Sachet Tandon
+1feANd8EfcDP5UqSvbheM3
+0.45
+0.308
+371791
+0.585
+0
+9
+0.319
+-5.18
+0
+0.0428
+171.843
+3
+0.345
+Ude Dil Befikre
+Befikre
+Vishal-Shekhar
+0hgTkEDY9oIG5DPKN39KHP
+0.0408
+0.704
+231327
+0.952
+0
+0
+0.335
+-2.331
+0
+0.0333
+106.99
+4
+0.902
+Ghammar Ghammar
+Raees
+Roshan Rathod
+43x5gxJ3WWadu1qx6nXhPY
+0.158
+0.603
+159059
+0.922
+0
+0
+0.32
+-3.643
+1
+0.122
+129.964
+4
+0.671
+Punjabi Wedding Song
+Hasee Toh Phasee (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+69iDTIABXobqbl8zJOp8dq
+0.157
+0.845
+233920
+0.845
+0
+6
+0.034
+-7.083
+0
+0.116
+106.965
+4
+0.769
+Bekhayali (Arijit Singh Version)
+Kabir Singh
+Arijit Singh
+47Il9B5GJ2FEkiwiIH3xX0
+0.491
+0.29
+370444
+0.58
+0
+9
+0.243
+-4.767
+0
+0.0434
+172.396
+3
+0.353
+Jaani Tera Naa
+Jaani Tera Naa
+Sunanda Sharma
+0LZA36VEmc6n0Y7X29zIgE
+0.0653
+0.776
+188606
+0.882
+0.000151
+8
+0.11
+-2.864
+0
+0.0456
+93.99
+4
+0.789
+Fevicol Se
+Dabangg 2
+Mamta Sharma
+0wEgK7RKkB1R6sR5Nrwh5g
+0.131
+0.752
+289866
+0.822
+0
+5
+0.27
+-8.471
+0
+0.102
+119.966
+4
+0.917
+Tu Muskura
+Yuvvraaj
+Alka Yagnik
+3VXiJATM497YjEXS94UHpm
+0.609
+0.69
+335017
+0.565
+0.0446
+4
+0.0914
+-8.43
+0
+0.0283
+114.968
+4
+0.309
+Gallan Goodiyaan
+Dil Dhadakne Do
+Yashita Sharma
+7hNYvX0qAKrxtVr1jGDmvR
+0.134
+0.83
+296500
+0.858
+1.72e-05
+6
+0.0567
+-3.18
+0
+0.0554
+119.974
+4
+0.949
+Garmi (From "Street Dancer 3D") (feat. Varun Dhawan)
+Garmi (From "Street Dancer 3D")
+Badshah
+6q9XTgfWilsnyiFofvYrIF
+0.123
+0.788
+182739
+0.87
+1.43e-05
+9
+0.0692
+-5.217
+1
+0.177
+109.974
+4
+0.884
+Illegal Weapon 2.0 (From "Street Dancer 3D")
+Illegal Weapon 2.0 (From "Street Dancer 3D")
+Jasmine Sandlas
+5fXslGZPI5Cco6PKHzlSL3
+0.101
+0.805
+188606
+0.919
+0.00343
+1
+0.0598
+-1.294
+1
+0.0938
+94.993
+4
+0.494
+Mundian To Bach Ke
+The Album
+Panjabi MC
+1oHB65eI7UVmjuXyjNdwdJ
+0.398
+0.775
+245573
+0.879
+0.768
+8
+0.148
+-5.0
+0
+0.0392
+98.042
+4
+0.942
+Ainvayi Ainvayi
+Band Baaja Baaraat
+Salim–Sulaiman
+74AqVxZ3oXwJ8olHssBUG3
+0.0339
+0.689
+267624
+0.742
+0.0046
+3
+0.0928
+-7.571
+0
+0.0413
+155.986
+4
+0.876
+Thug Le
+Ladies Vs Ricky Bahl
+Salim–Sulaiman
+1opxtm6zIv7IF19S0eCtvV
+0.0992
+0.768
+218932
+0.788
+2.94e-05
+1
+0.103
+-5.514
+1
+0.0687
+112.988
+4
+0.931
+Golmaal
+Golmaal 3
+Pritam
+3RCZgzKfc1r0VtKdBKBkhE
+0.132
+0.861
+242485
+0.874
+0.00128
+4
+0.312
+-4.458
+0
+0.0767
+133.028
+4
+0.961
+Make Some Noise For The Desi Boyz
+Desi Boyz
+Pritam
+71s7tZo8OGlN3VXyURWLUr
+0.0188
+0.692
+244068
+0.954
+0
+2
+0.151
+-3.93
+0
+0.0915
+141.98
+4
+0.89
+Desi Beat
+Bodyguard
+Mika Singh
+1GDu6SEykmkwlELF7wwOO8
+0.0137
+0.748
+245319
+0.776
+0.000712
+1
+0.117
+-3.324
+1
+0.0478
+126.937
+4
+0.658
+Character Dheela
+Ready
+Pritam
+1r4oikmMdZZiGHkPA4hSoe
+0.108
+0.783
+226300
+0.889
+3.06e-05
+1
+0.333
+-2.691
+0
+0.0598
+111.983
+4
+0.851
+Zor Ka Jhatka
+Action Replayy
+Pritam
+7EIq46YALncEzg0fYvLo0L
+0.0955
+0.742
+248131
+0.977
+0.000118
+1
+0.101
+-3.267
+1
+0.229
+176.108
+4
+0.823
+Kiss Me Baby
+Garam Masala (Original Motion Picture Soundtrack)
+Adnan Sami
+4gNGi2Mr26me7wGKd8TQSF
+0.172
+0.822
+223373
+0.85
+0.000884
+4
+0.22
+-7.67
+0
+0.118
+101.961
+4
+0.882
+Sweety Tera Drama
+Bareilly Ki Barfi
+Dev Negi
+5aXsYlFhJIOHCvxnna7jdP
+0.16
+0.769
+146983
+0.852
+0
+5
+0.261
+-3.107
+1
+0.154
+129.982
+4
+0.963
+Nachde Ne Saare
+Baar Baar Dekho (Original Motion Picture Soundtrack)
+Jasleen Royal
+4c8erEn1DjLoDp0CRLkNnq
+0.655
+0.82
+194762
+0.907
+4.85e-05
+7
+0.0816
+-4.517
+1
+0.0607
+126.062
+4
+0.834
+London Thumakda
+Queen
+Labh Janjua
+2qJAzSE6uC94oH2NRoPrGl
+0.363
+0.835
+230468
+0.718
+0.000919
+0
+0.0625
+-6.614
+1
+0.0818
+139.964
+4
+0.64
+Illegal Weapon 2.0
+Street Dancer 3D
+Jasmine Sandlas
+7CY0CmCpSglfUKCBOOiRfw
+0.101
+0.805
+188606
+0.919
+0.00343
+1
+0.0598
+-1.294
+1
+0.0938
+94.993
+4
+0.494
+Hauli Hauli (From "De De Pyaar De")
+Hauli Hauli (From "De De Pyaar De")
+Garry Sandhu
+60XrRbNjDMAGUZ2xLkU9W3
+0.0212
+0.705
+209393
+0.982
+3.18e-05
+1
+0.337
+-3.376
+1
+0.0788
+94.99
+4
+0.571
+Mere Gully Mein (feat. Naezy)
+Mere Gully Mein (feat. Naezy)
+DIVINE
+4NEdR5Yo8D2KwL7Y9KW7EH
+0.000514
+0.744
+182934
+0.813
+0
+9
+0.0685
+-7.401
+1
+0.154
+108.056
+4
+0.149
+Meri Aashiqui
+Meri Aashiqui
+Rochak Kohli
+2Zwv2vKU8mwgh2LI5GUKcT
+0.139
+0.555
+280149
+0.665
+0
+8
+0.167
+-8.132
+0
+0.0403
+75.008
+4
+0.472
+Lukka Chuppi
+Lukka Chuppi
+Arpit G
+1RICJrpqwSEHjhz0oWf2hu
+0.072
+0.889
+170857
+0.687
+1.2e-06
+8
+0.0888
+-7.561
+1
+0.0488
+105.016
+4
+0.5
+Dus Bahane 2.0 (From "Baaghi 3") (feat. K.K., Shaan, Tulsi Kumar)
+Dus Bahane 2.0 (From "Baaghi 3") (feat. K.K., Shaan, Tulsi Kumar)
+Vishal Dadlani
+0z9lOAVgQT5bysEKZ6Wwbk
+0.0411
+0.807
+201655
+0.914
+0.00105
+7
+0.292
+-5.092
+1
+0.069
+114.039
+4
+0.463
+Say "Shava Shava"
+Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)
+Aadesh Shrivastava
+7CdABTaND3EW5cETakiBD3
+0.0503
+0.665
+408920
+0.908
+0
+2
+0.0798
+-4.804
+1
+0.188
+98.811
+4
+0.694
+Why This Kolaveri Di? - The Soup of Love
+3 (Original Motion Picture Soundtrack)
+Anirudh Ravichander
+5AjYjRsiIPAKjRP182ocKB
+0.543
+0.817
+260013
+0.774
+1.61e-05
+5
+0.394
+-4.341
+0
+0.153
+140.008
+4
+0.884
+Satisfya
+Satisfya
+Imran Khan
+6HGoVbCUr63SgU3TjxEVj6
+0.00451
+0.726
+180056
+0.652
+3.32e-05
+1
+0.226
+-7.764
+0
+0.11
+163.879
+4
+0.803
+She Move It Like
+ONE (Original Never Ends)
+Badshah
+39vrbjCMTRXEdiIr2IsBgd
+0.00725
+0.832
+181765
+0.477
+6.47e-05
+0
+0.205
+-6.949
+1
+0.0481
+101.997
+4
+0.844
+Abhi Toh Party Shuru Hui Hai
+Khoobsurat
+Badshah
+0rUN8ascPVT9iiLzC5ocPw
+0.0081
+0.806
+179912
+0.815
+2.35e-05
+3
+0.586
+-5.373
+0
+0.0599
+129.999
+4
+0.678
+Dilliwaali Girlfriend
+Best Of Sunidhi Chauhan
+Arijit Singh
+6p56DuuwZQYSNgeB7fgRkZ
+0.0811
+0.688
+260552
+0.941
+2.89e-06
+6
+0.0697
+-5.23
+0
+0.0583
+138.047
+4
+0.909
+Coca Cola (From "Luka Chuppi")
+Frolic Neha Kakkar
+Tony Kakkar
+4bKkdGBttnK4SYjT4zPC1U
+0.12
+0.721
+179225
+0.867
+0.00577
+0
+0.123
+-3.652
+0
+0.0903
+102.009
+4
+0.893
+Manma Emotion Jaage (From "Dilwale")
+Manma Emotion Jaage (From "Dilwale")
+Pritam
+0eFNjt04kVq35UGIhsH3Ao
+0.0284
+0.762
+209412
+0.822
+0
+0
+0.367
+-2.758
+1
+0.0425
+101.998
+4
+0.467
+Lungi Dance
+Lungi Dance
+Yo Yo Honey Singh
+3VXh3jYTW3lTxtXRnu2TKP
+0.314
+0.684
+275399
+0.958
+1.94e-06
+1
+0.618
+-4.793
+1
+0.264
+163.95
+4
+0.817
+Chikni Chameli
+Agneepath (Original Motion Picture Soundtrack)
+Ajay-Atul
+1vSXwYeKnzsVvekSpqVabx
+0.289
+0.693
+301587
+0.956
+0
+1
+0.294
+-5.012
+0
+0.071
+90.005
+4
+0.665
+Mundian to Bach Ke
+The Album
+Panjabi MC
+4tW3ojK4geeYOObKB0Ss4d
+0.413
+0.776
+245560
+0.884
+0.821
+11
+0.151
+-5.062
+1
+0.0377
+98.071
+4
+0.951
+Chaiyya Chaiyya (From "Dil Se")
+A.R. Rahman Forever
+Sukhwinder Singh
+0nQAxM86k18BQzLneaFilj
+0.186
+0.786
+416613
+0.579
+0
+2
+0.118
+-14.913
+1
+0.142
+90.012
+4
+0.481
+Baaki Baatein Peene Baad (Shots) (feat. Badshah)
+Baaki Baatein Peene Baad (Shots) (feat. Badshah)
+Arjun Kanungo
+2RBkVQwpkDeYytMTQwjyTk
+0.0246
+0.566
+220313
+0.862
+0
+7
+0.103
+-6.02
+0
+0.105
+147.974
+4
+0.455
+Morni Banke
+Badhaai Ho
+Guru Randhawa
+5XxzNB2CnNrySvyVLwyobq
+0.178
+0.816
+198026
+0.922
+0
+11
+0.373
+-2.963
+0
+0.149
+95.006
+4
+0.887
+Banno (From "Tannu Weds Manu Returns")
+Banno (From "Tanu Weds Manu Returns")
+Brijesh Shandilya
+3L8WtGLEWg3CJggIBGvkNL
+0.138
+0.758
+196173
+0.877
+1.92e-05
+7
+0.085
+-5.047
+1
+0.0806
+108.011
+4
+0.707
+Where's The Party Tonight (From "Kabhi Alvida Naa Kehna")
+Best of SEL
+Shankar-Ehsaan-Loy
+14r2mr6k7DtO34bsp0mfzf
+0.00269
+0.764
+378160
+0.863
+0
+2
+0.27
+-5.414
+0
+0.0416
+132.021
+4
+0.92
+Bole Chudiyan (From "Kabhi Khushi Kabhie Gham")
+Bollywood: the Holiday Album
+Jatin-Lalit
+6zWU0V5A0K9oSPfktNoqDw
+0.45
+0.59
+408133
+0.875
+1.18e-05
+5
+0.164
+-5.294
+1
+0.171
+96.915
+4
+0.736
+Bom Diggy
+Bom Diggy - Single
+Zack Knight
+7Dhy1R9NmD96wfr7VJEN37
+0.273
+0.793
+207692
+0.777
+0
+4
+0.144
+-5.636
+0
+0.197
+103.956
+4
+0.528
+Second Hand Jawaani
+Cocktail
+Miss Pooja
+1kQXkoTv5vcZaYIkKF5Q0i
+0.0162
+0.809
+242377
+0.831
+0.00276
+5
+0.0534
+-4.043
+0
+0.06
+112.016
+4
+0.83
+Song: Dola Re
+Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"
+Kavita Krishnamurthy
+1UV1ej70vDBIdPUEJ40ZG1
+0.191
+0.65
+303387
+0.912
+0
+4
+0.38
+-5.898
+0
+0.186
+130.906
+4
+0.546
+Dilbar (From "Satyameva Jayate")
+Dilbar (From "Satyameva Jayate")
+Neha Kakkar
+4tjLYTXFqZhkUDga4bQ0yl
+0.155
+0.725
+184433
+0.912
+7.68e-05
+9
+0.107
+-3.665
+0
+0.0851
+104.054
+4
+0.674
+Dj Waley Babu (feat. Aastha Gill)
+Dj Waley Babu (feat. Aastha Gill)
+Badshah
+2SRv30X7NoYRZB62dX0UzH
+0.345
+0.959
+169080
+0.606
+0
+1
+0.126
+-5.754
+1
+0.219
+110.0
+4
+0.783
+Desi Girl
+Dostana (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+3Qpk2qHree1RTH5lZaKnEK
+0.0169
+0.746
+306987
+0.924
+0.00279
+8
+0.097
+-6.057
+1
+0.0442
+136.051
+4
+0.807
+It's The Time To Disco (From "Kal Ho Naa Ho") - "Will U Groove with Me" Mix
+The Essential Bollywood Hits
+Vasundhara Das
+6axDc02nCVolYbzanE1ye4
+0.051
+0.898
+333147
+0.772
+0.000142
+6
+0.113
+-8.543
+0
+0.0397
+131.95
+4
+0.794
+Suit Suit
+Hits Of Guru Randhawa
+Guru Randhawa
+2mwBSO58y92EYmEFpDfmS7
+0.14
+0.767
+190132
+0.869
+0
+2
+0.221
+-3.381
+0
+0.0908
+98.208
+4
+0.751
+The Humma Song (From "OK Jaanu")
+The Humma Song (From "OK Jaanu")
+A.R. Rahman
+7Ck2si1vtgdPXdKGtWGGXr
+0.0115
+0.721
+179658
+0.65
+0.00014
+0
+0.34
+-6.95
+0
+0.135
+130.487
+5
+0.392
+Illegal Weapon
+Illegal Weapon
+Garry Sandhu
+3Oe3VdPn6rAueriQvFhCBA
+0.488
+0.814
+230000
+0.666
+4.23e-05
+6
+0.108
+-6.555
+1
+0.0635
+94.02
+4
+0.714
+Rock N Roll Soniye
+Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+0W1eHrIACKah9l0Q9v611q
+0.109
+0.787
+341840
+0.871
+0
+5
+0.0426
+-6.193
+0
+0.142
+94.998
+4
+0.831
+Loge Tamma Tamma Loge
+Loge Tamma Tamma Loge
+Bappi Lahiri
+0v8GVNCGnQPxQbAeD0KmGd
+0.0519
+0.725
+199340
+0.842
+4.94e-05
+2
+0.103
+-5.208
+1
+0.0503
+122.967
+4
+0.746
+Rooftop Party
+Rooftop Party
+Mickey Singh
+57wYyAwumNXyh6LudPrDZI
+0.00298
+0.636
+199245
+0.848
+0
+8
+0.161
+-3.315
+0
+0.0516
+105.919
+4
+0.477
+Dil Chori
+Sonu Ke Titu Ki Sweety
+Yo Yo Honey Singh
+6zojSFiUNySBy3Kd1JVCXb
+0.502
+0.765
+226696
+0.89
+0
+5
+0.0423
+-4.608
+0
+0.0824
+99.961
+4
+0.918
+Say Na, Say Na - (Destiny Mix, With Robert Uhlmann)
+The Streets Of Bollywood...and Beyond
+Robert Uhlmann
+6xpd1LuUa2UEN3h1wB7LsF
+0.14
+0.735
+195067
+0.955
+0.155
+5
+0.0283
+-5.846
+0
+0.061
+99.976
+4
+0.893
+Tu Meri (From "Bang Bang")
+Tu Meri (From "Bang Bang")
+Vishal-Shekhar
+29GEhH79MHH2wzB7FXRQ2R
+0.0773
+0.679
+257089
+0.688
+0
+8
+0.704
+-5.522
+1
+0.0293
+127.951
+4
+0.424
+Tunak Tunak Tun
+Tunak Tunak Tun
+Daler Mehndi
+2EehHtmeeoSiO0d7zC1VOF
+0.544
+0.795
+303133
+0.978
+0.00156
+10
+0.0776
+-5.637
+1
+0.177
+150.006
+4
+0.685
+Amplifier
+Unforgettable
+Imran Khan
+3QXQ4dWNylnUsL5789LX1T
+0.0209
+0.727
+232907
+0.714
+0
+2
+0.153
+-4.494
+1
+0.0872
+164.003
+4
+0.618
+Wakhra Swag (feat. Badshah)
+Wakhra Swag (feat. Badshah) - Single
+Navv Inder
+5WoIz3RtJAsdiDCHzOjo0c
+0.148
+0.795
+190500
+0.641
+2e-06
+7
+0.0824
+-5.73
+0
+0.242
+159.91
+4
+0.736
+London Thumakda (From "Queen")
+Best Of Neha Kakkar
+Labh Janjua
+1VY2incfH4TLT9PCbot6lj
+0.363
+0.835
+230468
+0.718
+0.000919
+0
+0.0625
+-6.614
+1
+0.0816
+139.968
+4
+0.64
+It's the Time to Disco
+Kal Ho Naa Ho (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+3hCUkos0NxuSFl73oOHJzb
+0.0452
+0.902
+333093
+0.772
+0.000129
+6
+0.12
+-8.29
+0
+0.0383
+131.992
+4
+0.808
+Aankh Marey (From "Simmba")
+Frolic Neha Kakkar
+Neha Kakkar
+790uNrqzKWCvj8rR1QXNpU
+0.289
+0.796
+212741
+0.978
+0.00254
+5
+0.346
+-1.266
+0
+0.0955
+129.998
+4
+0.8
+High Heels
+High Heels
+Jaz Dhami
+7q7eYVerltlW2sYBuga6Mj
+0.394
+0.891
+297771
+0.913
+0.000173
+1
+0.373
+-4.453
+1
+0.149
+130.045
+4
+0.772
+Nashe Si Chadh Gayi
+Best of Arijit Singh
+Arijit Singh
+2EKXTA9QxkW6XeQ2uEeIii
+0.113
+0.8
+238289
+0.779
+0
+4
+0.206
+-5.515
+0
+0.0553
+96.948
+4
+0.266
+Kar Gayi Chull
+The Badshah of Party Hits
+Badshah
+3fPgIknlkDWXs1l2noKZbp
+0.0316
+0.827
+187711
+0.737
+0.000322
+11
+0.211
+-5.473
+0
+0.0764
+121.99
+4
+0.873
+Bolo Ta Ra Ra
+Bolo Ta Ra Ra
+Daler Mehndi
+4gmL6HURFqPMwx8nWQoOn2
+0.282
+0.703
+313027
+0.848
+0.295
+6
+0.0454
+-11.002
+1
+0.0462
+144.899
+4
+0.921
+Dard - E - Disco
+Om Shanti Om
+Sukhwinder Singh
+2GTasAZimpxzNgE7aXFifI
+0.0381
+0.837
+268713
+0.839
+0.000193
+11
+0.301
+-5.548
+1
+0.0468
+107.025
+4
+0.679
+Jumme Ki Raat
+Kick
+Aman Trikha
+1F8gX0BRQCfH34zzHkXmgY
+0.121
+0.703
+274500
+0.873
+2.6e-05
+1
+0.0352
+-6.707
+0
+0.111
+139.984
+4
+0.844
+Hookah Bar
+Khiladi 786
+Himesh Reshammiya
+4AoQVhME8Ko6LNm4lV2wwQ
+0.00797
+0.73
+254351
+0.656
+0.00271
+11
+0.108
+-5.07
+1
+0.0294
+131.04
+4
+0.743
+Amplifier
+Amplifier
+Imran Khan
+0l1i3nJ4aDMk0inxnvzYTz
+0.0209
+0.727
+232907
+0.714
+0
+2
+0.153
+-4.494
+1
+0.0872
+164.003
+4
+0.618
+Saturday Saturday
+Saturday Saturday
+Shaarib Toshi
+7MvQQGqYE4r0ucTarmI2Gr
+0.149
+0.847
+210799
+0.938
+0
+8
+0.107
+-4.615
+1
+0.0974
+130.02
+4
+0.786
+Chammak Challo
+Ra-One
+Akon
+0EH7sgeiFqDa3eS7ieW2zs
+0.0696
+0.742
+227091
+0.879
+7.17e-06
+0
+0.0981
+-4.274
+0
+0.0328
+133.946
+4
+0.936
+Gal Mitthi Mitthi
+Aisha (Original Motion Picture Soundtrack)
+Amit Trivedi
+4J9n7thOdqi8gxRGNyQoVC
+0.13
+0.906
+255907
+0.699
+0.0165
+0
+0.178
+-5.526
+1
+0.0462
+129.946
+4
+0.938
+Halkat Jawani
+Heroine (Original Motion Picture Soundtrack)
+Salim–Sulaiman
+2h1d6XPdBms5i7YwyfOO7q
+0.108
+0.709
+238427
+0.812
+2.11e-06
+6
+0.465
+-2.497
+0
+0.119
+131.984
+4
+0.908
+Beedi (From "Omkara")
+Omkara (Original Motion Pictures)
+Sunidhi Chauhan
+0AQtEH8Aq0SWP6aATrBi1U
+0.179
+0.727
+350160
+0.885
+0.00179
+2
+0.108
+-7.073
+1
+0.0642
+119.977
+4
+0.454
+Dhoom Machale Dhoom
+Dhoom:3
+Pritam
+1OBOW5jFnqpieVQFsxu2P9
+0.096
+0.7
+235625
+0.899
+1.38e-05
+1
+0.327
+-8.262
+1
+0.117
+109.994
+4
+0.674
+Koi Mil Gaya
+Koi Mil Gaya
+Udit Narayan
+6nX5HmYmVH8jrDKRCgcSui
+0.393
+0.736
+336422
+0.356
+1.45e-05
+11
+0.142
+-15.685
+1
+0.0571
+125.008
+4
+0.688
+Idhar Chala Main Udhar Chala
+Koi Mil Gaya
+Alka Yagnik
+2fmfxnkWSqMmGBGdqMwgXO
+0.505
+0.741
+313051
+0.253
+4.27e-06
+0
+0.402
+-19.856
+1
+0.394
+74.919
+4
+0.687
+Jadoo Jadoo
+Koi Mil Gaya
+Alka Yagnik
+0RjvjGkRYVPzD6PEmgbhQp
+0.244
+0.706
+269000
+0.379
+1.15e-06
+7
+0.325
+-21.374
+1
+0.156
+99.942
+4
+0.691
+Uff Teri Adaa
+Karthik Calling Karthik
+Shankar Mahadevan
+0og9wKFGgFFNQnrBe7eisG
+0.00536
+0.647
+304089
+0.792
+5.82e-05
+2
+0.054
+-9.815
+1
+0.0373
+132.032
+4
+0.306
+Chor Bazari
+Love Aaj Kal (Original Motion Picture Soundtrack)
+Neeraj Shridhar
+0SxjmKamCaXEBwuQdiMxor
+0.368
+0.824
+257440
+0.757
+0.000108
+11
+0.146
+-5.047
+1
+0.0744
+100.029
+4
+0.97
+Twist
+Love Aaj Kal (Original Motion Picture Soundtrack)
+Neeraj Shridhar
+5PatlLJYn8gWxnQnepzMjW
+0.0393
+0.722
+299440
+0.944
+5.9e-05
+4
+0.0747
+-4.995
+0
+0.143
+109.008
+4
+0.728
+Cutiepie
+Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]
+Pritam
+7hXnhouVPnOnFwCGrQMHvB
+0.253
+0.799
+231562
+0.929
+0.000462
+0
+0.24
+-3.231
+0
+0.0668
+127.999
+4
+0.952
+The Breakup Song
+Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)
+Pritam
+7BjQd0sfYsMGVrTpRdBNTT
+0.33
+0.818
+252632
+0.93
+0
+11
+0.658
+-2.982
+1
+0.247
+113.988
+4
+0.831
+Ye Ishq Hai (From "Jab We Met")
+Best Of Shreya Ghoshal
+Shreya Ghoshal
+1UHVj0W8BRn08AXvWcv8i6
+0.436
+0.823
+280974
+0.637
+2.15e-06
+5
+0.255
+-7.127
+0
+0.159
+118.043
+4
+0.873
+Nagada Sang Dhol
+Ravishing Deepika
+Shreya Ghoshal
+1tlDOttHVIHtJKJazVz0Ho
+0.29
+0.743
+273256
+0.921
+0.0068
+3
+0.0402
+-5.007
+0
+0.14
+113.284
+3
+0.674
+Barso Re
+Guru (Original Motion Picture Soundtrack)
+A.R. Rahman
+32DWojMZeZebVrfBkhAkKy
+0.337
+0.879
+329600
+0.487
+0.000284
+0
+0.0706
+-9.441
+1
+0.148
+116.991
+4
+0.338
+Rang De Basanti
+Rang De Basanti (Original Motion Picture Soundtrack)
+A.R. Rahman
+1SdFBc40uBU5Pqylo05VIC
+0.054
+0.848
+363800
+0.925
+0.104
+7
+0.209
+-6.161
+1
+0.0767
+105.006
+4
+0.69
+Banno (From "Tannu Weds Manu Returns")
+Tanu Weds Manu Returns (Original Motion Picture Soundtrack)
+Brijesh Shandilya
+78LZUVqzZzsuNfT6G782pP
+0.138
+0.758
+196173
+0.877
+1.92e-05
+7
+0.085
+-5.047
+1
+0.0806
+108.011
+4
+0.707
+Bom Diggy Diggy
+Bom Diggy Diggy (From "Sonu Ke Titu Ki Sweety")
+Zack Knight
+6qCNaRRr5xJALfNJvh0NAw
+0.159
+0.782
+238530
+0.827
+0
+11
+0.226
+-4.219
+0
+0.0627
+104.032
+4
+0.498
+It's the Time to Disco (From "Kal Ho Naa Ho")
+Shah Rukh Khan - King of Bollywood
+Shankar-Ehsaan-Loy
+6KVYm8gAHP4VJk9jSnOnzD
+0.0452
+0.902
+333093
+0.772
+0.000129
+6
+0.12
+-8.29
+0
+0.0383
+131.992
+4
+0.808
+Tere Naina (From "My Name Is Khan")
+Best of SEL
+Shankar-Ehsaan-Loy
+3BpiaQ6oZCoTZJmexcB4co
+0.558
+0.522
+278547
+0.74
+0
+0
+0.144
+-7.018
+1
+0.0465
+92.618
+4
+0.732
+Pappu Can't Dance
+Jaane Tu... Ya Jaane Na
+Benny Dayal
+7MkhC2h8lDwyEfaKxf48cJ
+0.00335
+0.668
+264986
+0.746
+0.00031
+1
+0.0773
+-7.592
+1
+0.0603
+119.696
+4
+0.485
+Girls Like To Swing
+Dil Dhadakne Do
+Sunidhi Chauhan
+5JlZLXvZBEFD9u8OoJq6Yh
+0.0817
+0.839
+243166
+0.869
+0
+0
+0.323
+-3.005
+1
+0.148
+125.026
+4
+0.605
+Dil Dhadakne Do
+Zindagi Na Milegi Dobara
+Joi Barua
+46elU7IBKWf55D5sjHGqO7
+0.0705
+0.778
+230319
+0.599
+0
+2
+0.59
+-4.758
+1
+0.032
+116.951
+4
+0.949
+Socha Hai
+Rock On
+Farhan Akhtar
+7IjnfuMNfdrAXbefurdIIR
+0.722
+0.593
+246132
+0.773
+0
+2
+0.117
+-5.591
+1
+0.0339
+133.975
+4
+0.561
+Rock On!!
+Rock On
+Farhan Akhtar
+6fABlNfAOylt7ZxfX8K1XL
+0.175
+0.747
+231819
+0.849
+1.23e-06
+7
+0.126
+-5.916
+1
+0.0581
+113.034
+4
+0.671
+Desi Girl (From "Dostana")
+Best of Me Vishal Shekhar
+Vishal-Shekhar
+5yDtBUvjNse5mr5887lj59
+0.0169
+0.746
+306987
+0.924
+0.00279
+8
+0.097
+-6.057
+1
+0.0442
+136.051
+4
+0.807
+Iski Uski
+2 States
+Akriti Kakkar
+0ON0JdGgRTVcCInt8j6eod
+0.169
+0.761
+254407
+0.945
+0.000148
+0
+0.0692
+-6.089
+1
+0.0414
+135.011
+4
+0.965
+Lat Lag Gayee (From "Race 2")
+Lat Lag Gayee (From "Race 2")
+Benny Dayal
+6v7NjCg1b9WTGVD05vaYTN
+0.229
+0.79
+280369
+0.892
+1.24e-06
+10
+0.206
+-4.038
+0
+0.0404
+131.994
+4
+0.896
+Party on My Mind (From "Race 2")
+Party on My Mind (From "Race 2")
+KK
+3VxKUr7XgTGxFRvOd8blov
+0.0187
+0.713
+221820
+0.864
+0
+11
+0.722
+-4.994
+0
+0.0746
+122.019
+4
+0.568
+Let's Nacho
+The Badshah of Party Hits
+Nucleya
+67ZZqOrQH4Bshguxw9GPkh
+0.0906
+0.742
+215076
+0.947
+0.0221
+0
+0.0721
+-3.749
+1
+0.0321
+130.043
+4
+0.88
+Kala Chasma
+Dance With Me - Aaja Ni Aaja
+Kam Dhillon
+646OD5HyK4hBHQ04oW8tDJ
+0.0039
+0.83
+268302
+0.6
+0.000101
+9
+0.263
+-7.826
+1
+0.0633
+105.975
+4
+0.369
+Bheegi Si Bhaagi Si
+Raajneeti (Original Motion Picture Soundtrack)
+Pritam
+665b3Nss3OQmhTUdB5hBXw
+0.361
+0.564
+278093
+0.867
+0
+8
+0.262
+-6.21
+1
+0.121
+88.919
+4
+0.815
+Gerua (From "Dilwale")
+Gerua (From "Dilwale")
+Pritam
+6V0cw3ZOtm5oQJrSv4QluQ
+0.636
+0.371
+345559
+0.668
+2e-06
+11
+0.294
+-7.269
+0
+0.0497
+87.458
+4
+0.403
+Party on My Mind (From "Race 2")
+Race 2 (Original Motion Picture Soundtrack)
+KK
+0lilvWQA2T5nZW7FTKqyRe
+0.0187
+0.715
+222133
+0.864
+0
+11
+0.719
+-5.013
+0
+0.0743
+122.015
+4
+0.568
+Masakali (From "Delhi-6")
+A.R. Rahman: Love Songs
+Mohit Chauhan
+6bmn66GsOExETkObSslEAa
+0.138
+0.678
+288647
+0.622
+2.32e-06
+5
+0.122
+-7.988
+0
+0.0695
+100.005
+4
+0.535
+Chak De India
+Chak De India
+Salim–Sulaiman
+6D3vmtskO4RbZP3bBIDY3X
+0.54
+0.755
+283951
+0.894
+1.55e-05
+4
+0.141
+-8.544
+0
+0.0993
+104.985
+4
+0.799
+Mere Gully Mein
+Gully Boy
+Ranveer Singh
+7fKywVasHSlshJQpkN2atd
+0.00502
+0.844
+185000
+0.617
+0
+11
+0.0558
+-12.748
+0
+0.116
+107.999
+4
+0.159
+Apna Time Aayega
+Gully Boy
+Ranveer Singh
+5uaIbU3oHHcSOK6WFNK5nj
+0.0187
+0.766
+140463
+0.618
+0.000115
+11
+0.181
+-8.552
+0
+0.124
+95.054
+4
+0.513
+Pretty Woman
+Kal Ho Naa Ho (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+3rsx3pDYM3a08O0Yu3Tq6V
+0.124
+0.677
+353880
+0.942
+0.0132
+11
+0.0819
+-6.105
+0
+0.16
+173.991
+4
+0.598
+Pehli Nazar Mein (From "Race")
+Atif Rocks
+Atif Aslam
+5y6AZl7VVuz7m8AMxFJZcQ
+0.258
+0.455
+308268
+0.563
+0
+9
+0.189
+-5.545
+1
+0.0826
+126.337
+3
+0.659
+Bulleya
+Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]
+Pritam
+0Bz7dfqPY4JOGZO3O1j8Wh
+0.497
+0.552
+348966
+0.769
+0
+2
+0.112
+-4.504
+0
+0.0465
+86.957
+4
+0.702
+Nashe Si Chadh Gayi
+Befikre
+Vishal-Shekhar
+0biCSADTAblvLTLtJz4pXO
+0.11
+0.799
+237876
+0.784
+2.84e-06
+4
+0.227
+-5.207
+0
+0.0519
+96.953
+4
+0.26
+Maa Da Laadla (From "Dostana")
+Best of Me Vishal Shekhar
+Vishal-Shekhar
+3i8O0VjTIFuJiNxTZWETIV
+0.00771
+0.787
+245187
+0.933
+0.214
+0
+0.116
+-5.712
+1
+0.0559
+113.974
+4
+0.806
+Tu Jaane Na (From "Ajab Prem Ki Ghazab Kahani")
+Atif Rocks
+Atif Aslam
+5SoEW6ft6IFypXXA7nt3z4
+0.36
+0.701
+337279
+0.864
+1.33e-06
+7
+0.16
+-3.955
+1
+0.035
+120.055
+4
+0.819
+Second Hand Jawaani (From "Cocktail")
+Cocktail
+Miss Pooja
+61lJAFZuozwBfomLIHKjRS
+0.0162
+0.809
+242377
+0.831
+0.00276
+5
+0.0534
+-4.043
+0
+0.06
+112.016
+4
+0.83
+Iktara
+Wake Up Sid (Original Motion Picture Soundtrack)
+Amit Trivedi
+3jtKSUiVDowKNBqVQbWaig
+0.401
+0.616
+253773
+0.525
+0.000484
+7
+0.309
+-7.065
+1
+0.0258
+79.976
+4
+0.427
+Slow Motion Angreza
+Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+0JX7Es2j556FwtR6YqMKzP
+0.22
+0.802
+260507
+0.763
+0.000396
+0
+0.128
+-6.456
+1
+0.0336
+120.078
+4
+0.789
+You Are My Soniya (From "Kabhi Khushi Kabhie Gham")
+Sonu Nigam: Best of Me
+Sandesh Shandilya
+0vt3DlLY9G276aK4p29yRT
+0.29
+0.853
+343613
+0.785
+0
+8
+0.0589
+-6.08
+1
+0.0619
+106.046
+4
+0.786
+Say Na Say Na
+Bluff Master (Original Motion Picture Soundtrack)
+Aneela Mirza
+4apmtrZ0jOe4AqT3dByOCH
+0.154
+0.739
+197240
+0.956
+0.157
+5
+0.0246
+-5.831
+0
+0.0603
+100.018
+4
+0.894
+Race Saanson Ki (From "Race")
+Race (Original Motion Picture Soundtrack)
+Sunidhi Chauhan
+5MMJtSCRqJBKKz4dWLmyMu
+0.011
+0.694
+283804
+0.931
+0.00418
+1
+0.0779
+-5.003
+1
+0.123
+111.977
+4
+0.587
+Buddhu Sa Mann
+Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)
+Amaal Mallik
+1dxbiVeiV7nQ2V9qXnhJiB
+0.193
+0.644
+206858
+0.87
+0
+10
+0.549
+-4.816
+1
+0.0394
+125.998
+4
+0.702
+Wake Up Sid! (From "Wake Up Sid ")
+Best of SEL
+Shankar-Ehsaan-Loy
+4dqHFSMF5gGTeIQSAz7gnm
+0.0774
+0.72
+231240
+0.651
+0
+2
+0.11
+-6.844
+1
+0.0346
+128.023
+4
+0.824
+Soni De Nakhre
+Partner
+Wajid
+4tBMbRwLJa5BjwJ6FrBlks
+0.00698
+0.829
+261013
+0.852
+0.000278
+6
+0.055
+-5.4
+1
+0.0477
+131.989
+4
+0.912
+Jhoom Barabar Jhoom
+The Second Best Exotic Marigold Hotel (Original Motion Picture Soundtrack)
+KK
+6YlmRsW5a2FbVr7Kxybv9i
+0.0712
+0.777
+216653
+0.683
+6.77e-05
+7
+0.149
+-9.879
+1
+0.114
+136.006
+4
+0.662
+Kajra Re
+Bunty Aur Babli
+Shankar
+72HdutlIHBZJ7WT1xVAAZT
+0.365
+0.484
+482586
+0.898
+0
+0
+0.091
+-4.132
+1
+0.164
+91.975
+4
+0.68
+Guzarish (From "Ghajini")
+Ar Rahman Musique
+Javed Ali
+39bHz64P8EIGXnoPfpYnUE
+0.0925
+0.595
+327030
+0.624
+0
+9
+0.114
+-10.943
+0
+0.0603
+170.001
+4
+0.647
+Give Me Some Sunshine
+3 Idiots
+Suraj Jagan
+1Qt0OGUUPibpmk1FpFQ43m
+0.386
+0.671
+245130
+0.615
+6.6e-06
+0
+0.106
+-7.992
+1
+0.0579
+97.999
+4
+0.566
+Hai Junoon
+New York
+Pritam
+5u4q3iqZ9IMbXaR7bsGYbW
+0.539
+0.739
+331572
+0.664
+1.14e-06
+2
+0.0856
+-10.582
+1
+0.0338
+106.021
+4
+0.878
+Prem Ki Naiya (From "Ajab Prem Ki Ghazab Kahani") - Remix
+Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack)
+Neeraj Shridhar
+7j26QegmvzlnmFn45TokKl
+0.0102
+0.767
+265247
+0.967
+0.000129
+11
+0.359
+-3.983
+1
+0.0343
+129.997
+4
+0.948
+Dangal
+Dangal
+Daler Mehndi
+7EpZ8kdKyQM4GMJy2tj0We
+0.239
+0.618
+299326
+0.867
+0
+6
+0.0559
+-5.1
+0
+0.139
+178.017
+4
+0.665
+Character Dheela (From "Ready")
+Pritam's Musical Journey
+Neeraj Shridhar
+3g9wlxqArcnF5wjH4iFCN1
+0.108
+0.783
+226300
+0.889
+3.06e-05
+1
+0.333
+-2.69
+0
+0.06
+111.986
+4
+0.851
+Woh Ladki Hai Kahan
+Dil Chahta Hai
+Shaan
+2tO0QPdCA0jgDBshTuYYkc
+0.172
+0.786
+306133
+0.677
+0.000104
+8
+0.0446
+-8.624
+1
+0.183
+94.985
+4
+0.858
+BIBA
+BIBA
+Marshmello
+0GVBPuCT3pBrXCdY3Uiy5B
+0.0656
+0.587
+175721
+0.963
+0
+0
+0.27
+0.366
+0
+0.0552
+127.842
+4
+0.491
+Main Tera Boyfriend (From "Raabta")
+Main Tera Boyfriend (From "Raabta")
+Arijit Singh
+0fbW412zBf9YZUBfsqVaLo
+0.0958
+0.84
+276153
+0.914
+0
+11
+0.115
+-3.916
+0
+0.0613
+104.019
+4
+0.651
+Muskurane (From "Citylights") - Romantic
+Yours Truly Arijit
+Jeet Gannguli
+7HqKQ28B7kaTY7pMyQ2OTy
+0.628
+0.567
+334331
+0.577
+0
+11
+0.132
+-6.197
+0
+0.0264
+101.99
+4
+0.217
+Beedi (From "Omkara")
+Hits of Saif
+Sunidhi Chauhan
+0EU3vVR5GhdwdjtVSsN9F6
+0.179
+0.727
+350160
+0.885
+0.00179
+2
+0.108
+-7.073
+1
+0.0642
+119.977
+4
+0.454
+Jeene Laga Hoon (From "Ramaiya Vastavaiya")
+Ramaiya Vastavaiya (Original Motion Picture Soundtrack)
+Atif Aslam
+11ZEzmgtjJhoMHTWGd5IRY
+0.144
+0.562
+231673
+0.735
+0.000204
+7
+0.177
+-7.924
+0
+0.0445
+90.057
+4
+0.537
+Tumhi Dekho Naa
+Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+2ILhVeTkbDAYEvesCCBsNo
+0.572
+0.525
+347453
+0.448
+1.51e-05
+2
+0.107
+-10.365
+0
+0.0391
+81.131
+4
+0.356
+First Class
+First Class (Kalank)
+Arijit Singh
+7bFx4We3iNjxmIxXBxou1G
+0.449
+0.534
+276960
+0.959
+0
+1
+0.354
+-3.67
+0
+0.361
+187.576
+3
+0.751
+Kahin To
+Jaane Tu... Ya Jaane Na
+Rashid Ali
+3E424W0IJS3ypZ4YOxE0Jn
+0.334
+0.61
+303206
+0.492
+6.3e-06
+10
+0.0979
+-7.55
+1
+0.0261
+90.984
+4
+0.165
+Aaja Nachle
+Aaja Nachle
+Salim–Sulaiman
+2Bn2JQAGZzxe09jFzm1SqJ
+0.417
+0.771
+305162
+0.878
+6.32e-05
+3
+0.332
+-6.879
+0
+0.177
+120.003
+4
+0.84
+Ishq Wala Love
+Student of the Year (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+1hQia6rxgfM1ly2hE3StWp
+0.534
+0.711
+257973
+0.295
+4.51e-05
+0
+0.0782
+-12.377
+0
+0.0334
+135.041
+4
+0.694
+Shukran Allah
+Kurbaan (Original Motion Picture Soundtrack)
+Salim–Sulaiman
+3nKEiJUeaWn8q2O9I1xwlB
+0.732
+0.432
+290053
+0.695
+0.0014
+1
+0.274
+-8.022
+1
+0.111
+116.153
+3
+0.513
+Dooriyan
+Love Aaj Kal (Original Motion Picture Soundtrack)
+Mohit Chauhan
+5doYtCoJ8KpfkFczP3F2ad
+0.612
+0.52
+337360
+0.716
+0
+7
+0.11
+-6.582
+0
+0.051
+122.977
+4
+0.593
+Bin Tere
+I Hate Luv Storys (Original Motion Picture Soundtrack)
+Vishal-Shekhar
+3bZPdEskcnMdepwCaDSJRl
+0.42
+0.585
+330360
+0.698
+3.59e-06
+9
+0.363
+-6.261
+1
+0.0392
+139.831
+4
+0.621
+The Wakhra Song
+The Wakhra Song (From "Judgementall Hai Kya")
+Navv Inder
+6N6mJlsjYRV0yoMSPS5JiQ
+0.339
+0.788
+196000
+0.894
+0.000253
+5
+0.0649
+-2.661
+0
+0.198
+89.945
+4
+0.588
+Chaiyya Chaiyya (From "Dil Se")
+Bollywood's Musical Extravaganza - Sonu Nigam & Sukhwinder Singh
+Sukhwinder Singh
+7ltsfuHdqTZ5LwPpDy1q0v
+0.186
+0.786
+416613
+0.579
+0
+2
+0.118
+-14.913
+1
+0.142
+90.012
+4
+0.481
+Mast Kalander
+Mika Singh Is King
+Mika Singh
+1JiR90QSjo3r6jNcPw5URO
+0.381
+0.747
+270524
+0.81
+1.37e-06
+0
+0.118
+-5.337
+0
+0.0497
+110.978
+4
+0.555
+Zara Sa
+Jannat (Original Motion Picture Soundtrack)
+Pritam
+18YHbIhrleUkKKj2DvEp79
+0.12
+0.468
+303680
+0.91
+0.000304
+11
+0.271
+-3.057
+0
+0.051
+163.842
+4
+0.694
+Khabar Nahi (From "Dostana")
+Musical Bond: Vishal Shekhar & Anvita Dutt
+Vishal-Shekhar
+60wChq5hXsfkmdlMEhCZYI
+0.153
+0.622
+259120
+0.758
+0
+7
+0.0622
+-6.641
+1
+0.11
+90.951
+4
+0.436
+Kala Chashma
+The Neha Kakkar Collection
+Amar Arshi
+3HhzqHPEN33a5UCKSfZpgi
+0.0984
+0.801
+187006
+0.856
+6.62e-05
+0
+0.228
+-4.233
+1
+0.065
+106.026
+4
+0.919
+Jiya Dhadak Dhadak Jaye
+Kalyug (Original Motion Picture Soundtrack)
+Rahat Fateh Ali Khan
+4CKi5CijlpT7ljOgLN7ReX
+0.157
+0.69
+319480
+0.533
+6.02e-05
+0
+0.121
+-9.741
+1
+0.0342
+119.924
+4
+0.399
+Jee Karda
+Singh is Kinng (Original Motion Picture Soundtrack)
+Pritam
+5yjKSIOtsenie9jgdSS5wr
+0.125
+0.854
+291082
+0.847
+0.000124
+8
+0.0512
+-4.616
+1
+0.0451
+120.006
+4
+0.845
+Teri Ore
+Singh is Kinng (Original Motion Picture Soundtrack)
+Pritam
+7lJNQFaBPlm3XhNUWnVk55
+0.172
+0.484
+339592
+0.797
+0
+2
+0.267
+-4.629
+1
+0.0972
+83.542
+4
+0.699
+Ik Vaari Aa
+Raabta
+Pritam
+7fyiYhn7STpHvT5g0lbncC
+0.305
+0.512
+274687
+0.752
+0
+4
+0.708
+-4.857
+0
+0.0534
+127.965
+4
+0.428
+Bol Na Halke Halke
+Jhoom Barabar Jhoom
+Shankar-Ehsaan-Loy
+0u8wprNfOdcWpUlWnfMcpP
+0.279
+0.637
+306834
+0.573
+3.46e-06
+11
+0.0617
+-6.69
+0
+0.0491
+90.017
+4
+0.704
+O Humdum Suniyo Re
+Saathiya
+A.R. Rahman
+0KdDgQgvvh7tYM3jj3n78l
+0.00722
+0.814
+237740
+0.477
+0.00961
+7
+0.0404
+-12.855
+1
+0.0466
+109.982
+4
+0.964
+Mit Jaaye Gham (Dum Maaro Dum)
+Dum Maaro Dum
+Pritam
+33vhuNbI4A5BcXBYcw9wZx
+0.0956
+0.747
+232734
+0.921
+0.000164
+0
+0.0367
+-3.851
+1
+0.0859
+129.945
+4
+0.671
+Jhoom
+Jhoom Barabar Jhoom
+Shankar-Ehsaan-Loy
+3YUQ5J2KaU9GnsNTGutOlk
+0.185
+0.697
+324336
+0.848
+0.000586
+2
+0.0662
+-4.154
+0
+0.0671
+93.024
+4
+0.807
+Ticket To Hollywood
+Jhoom Barabar Jhoom
+Shankar-Ehsaan-Loy
+6zvTphIuv3ilJuD9nUOvUV
+0.327
+0.851
+280294
+0.843
+6.86e-06
+2
+0.155
+-4.41
+1
+0.13
+102.038
+4
+0.749
+Jbj
+Jhoom Barabar Jhoom
+Shankar-Ehsaan-Loy
+280gUo4LRJJdkQB8iAQSFt
+0.0538
+0.748
+296150
+0.836
+2.28e-05
+7
+0.136
+-5.928
+1
+0.1
+136.001
+4
+0.722
+Jhoom Barabar Jhoom
+Jhoom Barabar Jhoom
+Shankar-Ehsaan-Loy
+4HfmI5Yisll9PCOjJhtijw
+0.459
+0.534
+425613
+0.752
+0.00017
+2
+0.347
+-5.47
+1
+0.155
+101.025
+4
+0.613
+Tune Jo Na Kaha
+New York
+Pritam
+0pw3p4gf5homOkvOGOJulF
+0.779
+0.314
+310073
+0.475
+0.00539
+5
+0.34
+-12.38
+1
+0.0838
+78.992
+4
+0.312
+Tandoori Nights
+Karzzzz
+Himesh Reshammiya
+0fu0xZhqfPfk3vSQJm69Tr
+0.0339
+0.89
+313093
+0.488
+2.21e-05
+1
+0.0966
+-7.999
+1
+0.0782
+109.991
+4
+0.444
+Chittiyaan Kalaiyaan
+Roy
+Meet Bros Anjjan
+6XjJXPP3UiGtAQpYkD01c0
+0.0962
+0.793
+246100
+0.887
+6.39e-05
+7
+0.623
+-5.285
+1
+0.0954
+100.007
+4
+0.602
+Saathiya
+Saathiya
+A.R. Rahman
+78KKYDENYsw6jYfuEZsqJl
+0.186
+0.462
+357433
+0.457
+0
+1
+0.334
+-15.251
+0
+0.106
+175.94
+4
+0.535
+Aye Udi Udi Udi
+Saathiya
+A.R. Rahman
+6K0Ea7pq2trf6SwsfEKkOp
+0.0278
+0.721
+276715
+0.375
+0
+5
+0.112
+-16.621
+1
+0.0683
+87.953
+4
+0.556
+Dangal
+Dangal (Original Motion Picture Soundtrack)
+Pritam
+0dT6g7oqjEqphjXMk8MKHz
+0.239
+0.618
+299326
+0.867
+0
+6
+0.0559
+-5.1
+0
+0.139
+178.017
+4
+0.665
+Selfie Le Le Re
+Bajrangi Bhaijaan
+Pritam
+0Zz7AEZfBKP2U7sO0WJKER
+0.186
+0.725
+297651
+0.938
+0
+11
+0.334
+-3.62
+0
+0.188
+129.931
+4
+0.938
+Udi Udi Jaye
+Raees
+Sukhwinder Singh
+40BjkQhSOqS7j8Z0JHiF07
+0.52
+0.507
+260507
+0.752
+0
+2
+0.258
+-4.337
+1
+0.19
+124.96
+4
+0.953
+Haan Main Galat
+Love Aaj Kal (Original Motion Picture Soundtrack)
+Pritam
+0MLZAgKQKHbPsJ12qHS860
+0.125
+0.683
+218644
+0.737
+0.0105
+0
+0.103
+-5.66
+1
+0.0502
+117.996
+4
+0.919
+Swag Se Swagat
+Tiger Zinda Hai
+Vishal-Shekhar
+2AjGLmuZK1fu21n1IpB9RU
+0.0212
+0.825
+235944
+0.559
+0.000689
+1
+0.205
+-7.907
+1
+0.0722
+105.957
+4
+0.207
+Tujh Mein Rab Dikhta Hai
+Soulful Melodies - Flute Version Instrumental
+Salim–Sulaiman
+3GkYAqLwnqMek9Wv1k4qUV
+0.403
+0.393
+288064
+0.641
+0.969
+5
+0.124
+-9.125
+0
+0.0556
+76.3
+4
+0.652
+Tu Jahaan
+Soulful Melodies - Flute Version Instrumental
+Vishal-Shekhar
+6jzyyJHdEsvmuL21pX3DJx
+0.617
+0.593
+316954
+0.649
+0.766
+5
+0.0949
+-8.902
+0
+0.0366
+78.021
+4
+0.485
+Mere Haath Mein
+Fanaa
+Jatin-Lalit
+6oUK2k9OJ0WvmVveyauFB7
+0.578
+0.554
+285858
+0.606
+0.000183
+1
+0.11
+-12.312
+1
+0.0722
+93.922
+4
+0.584
+Sauda Khara Khara
+Sauda Khara Khara (From "Good Newwz")
+Diljit Dosanjh
+4LLvxxkWtt818FNO3cbsdo
+0.0939
+0.687
+211034
+0.919
+4.38e-06
+10
+0.105
+-3.28
+1
+0.0635
+145.037
+4
+0.877
+Yaar Naa Miley (From "Kick")
+Yo Yo Honey Singh Is Back
+Yo Yo Honey Singh
+0qzuXwxORXTwSsBU2aJGj5
+0.0102
+0.663
+243206
+0.938
+9.01e-06
+0
+0.75
+-2.894
+0
+0.0335
+127.988
+4
+0.551
+Nimbooda
+Hum Dil De Chuke Sanam
+Kavita Krishnamurthy
+1gdWDwF6vCUg0dkZ06f6b4
+0.163
+0.76
+384320
+0.829
+0.0172
+5
+0.0321
+-7.296
+0
+0.0705
+112.071
+4
+0.861
+Main Aisa Kyon Hoon
+Lakshya (Original Motion Picture Soundtrack)
+Shankar-Ehsaan-Loy
+11ipwX6rA4f5KMTYB7QFXj
+0.031
+0.809
+274267
+0.509
+0
+0
+0.175
+-4.856
+1
+0.0391
+95.993
+4
+0.921
+O Humdum Suniyo Re (From "Saathiya")
+Travel Tunes
+KK
+5eOpLQoSMiCsJZ1UZ93pWk
+0.00722
+0.814
+237740
+0.477
+0.00961
+7
+0.0404
+-12.855
+1
+0.0466
+109.982
+4
+0.964
+Asalaam-e-Ishqum
+Gunday
+Sohail Sen
+7gw6rSstVq9CmuQAaZhWm8
+0.0605
+0.765
+278988
+0.908
+3.23e-06
+6
+0.233
+-5.043
+0
+0.052
+106.993
+4
+0.891
+Kambakkht Ishq
+Kambakkht Ishq
+KK
+1w2RaCirzKxCuSaCWHYmI4
+0.00246
+0.837
+293107
+0.81
+0.00212
+9
+0.167
+-4.412
+1
+0.0769
+129.998
+4
+0.634
+Jhoom Jhoom
+Tom Dick And Harry
+Himesh Reshammiya
+5WS98kb4hHIS6Bo3yG1IPR
+0.0793
+0.738
+368613
+0.864
+1.5e-05
+3
+0.337
+-8.791
+0
+0.0564
+113.019
+4
+0.864
+Jaan-E-Jaan
+Saawariya (Original Motion Picture Soundtrack)
+Monty Sharma
+1QJgMhhCVH04Ltig1Bs9fX
+0.59
+0.352
+359013
+0.447
+5.23e-05
+11
+0.107
+-9.635
+0
+0.0665
+148.55
+3
+0.143
+Laung Da Lashkara
+Patiala House
+Mahalakshmi Iyer
+5pQODzb8j3xMQ1qvrQXJvo
+0.05
+0.841
+304467
+0.74
+2.22e-06
+9
+0.128
+-8.432
+1
+0.13
+109.033
+4
+0.626
+Race Is On My Mind
+Race (Original Motion Picture Soundtrack)
+Sunidhi Chauhan
+2IjqARrbqhsS8E9R7tVNTJ
+0.0234
+0.719
+299008
+0.942
+0.000116
+6
+0.0728
+-5.159
+1
+0.102
+111.992
+4
+0.523
+Zara Zara Touch Me
+Race (Original Motion Picture Soundtrack)
+Monali Thakur
+15BmNnMZTnPTawkFaJv1JR
+0.344
+0.844
+285620
+0.651
+8.42e-06
+7
+0.245
+-6.704
+1
+0.267
+124.012
+5
+0.456
+Khwab Dekhe Sexy Lady
+Race (Original Motion Picture Soundtrack)
+Pritam
+7GE3LwWzboPaTN0TlDcPs1
+0.303
+0.818
+279357
+0.829
+8.53e-05
+8
+0.277
+-7.145
+0
+0.0978
+108.999
+4
+0.967
+Sanam Re
+Sanam Re
+Mithoon
+0CVfovmUv7BnemOyTtOcbL
+0.395
+0.581
+308714
+0.71
+0
+7
+0.137
+-4.961
+0
+0.0374
+111.969
+4
+0.755
+Locha-E-Ulfat
+Love Dose: Benny Dayal
+Benny Dayal
+0LIdJDwGEJUDruEycKBK80
+0.0365
+0.705
+288462
+0.74
+0
+0
+0.487
+-5.82
+1
+0.0505
+106.953
+4
+0.928
+Sawan Mein Lag Gayi Aag
+Ginny Weds Sunny (Original Motion Picture Soundtrack)
+Mika Singh
+6oloWgrErtc8dG2WiV55gn
+0.388
+0.792
+226615
+0.813
+2.29e-05
+0
+0.0541
+-3.687
+1
+0.0513
+130.058
+4
+0.868
+Mast Magan
+2 States
+Arijit Singh
+3uL1IBFhg52VcQqOwAG01E
+0.606
+0.659
+280161
+0.774
+0.000333
+7
+0.185
+-7.014
+1
+0.0372
+82.995
+4
+0.883
+Naina Da Kya Kasoor
+Andhadhun
+Amit Trivedi
+4JQxGJ8jsKW8pOUVoAgOZr
+0.159
+0.845
+210952
+0.659
+0.0129
+9
+0.0782
+-6.348
+1
+0.0373
+125.965
+4
+0.547
+Prem Ratan Dhan Payo
+Prem Ratan Dhan Payo
+Palak Muchhal
+5HGXuAy0YA1GBRkAny0cvV
+0.48
+0.451
+319343
+0.922
+3.65e-05
+11
+0.0616
+-6.26
+1
+0.216
+92.409
+4
+0.495
+DNA Mein Dance
+DNA Mein Dance
+Vishal-Shekhar
+36Bvu7WkCqIIhikm9nIP5q
+0.00355
+0.798
+136744
+0.752
+1.11e-05
+10
+0.131
+-6.517
+0
+0.0509
+128.939
+4
+0.342
+Jee Le Zaraa
+Talaash
+Vishal Dadlani
+2r32XiAWtZbT3eLUvf4pag
+0.447
+0.584
+215203
+0.698
+0
+4
+0.0699
+-6.61
+0
+0.0376
+79.993
+4
+0.436
+Kaam 25 - Sacred Games
+Kaam 25 (Sacred Games)
+DIVINE
+6Kynli1iHBqJRWUCohcV9h
+0.0473
+0.484
+149525
+0.948
+0
+1
+0.0565
+-4.296
+0
+0.451
+125.645
+5
+0.686
+Masakali
+Delhi-6
+Mohit Chauhan
+5iyNH1Dmxif1k4Nl1gMeuh
+0.138
+0.678
+288647
+0.622
+2.32e-06
+5
+0.122
+-7.988
+0
+0.0695
+100.005
+4
+0.535
+Kabira (Encore)
+Yeh Jawaani Hai Deewani
+Pritam
+3jJ5HgLRNydtLRghjWVaCG
+0.441
+0.611
+270439
+0.612
+0
+2
+0.18
+-7.978
+1
+0.114
+171.841
+4
+0.898
+Sambh
+Solace
+The PropheC
+1i2R3Pu9lEjRGJjJHOAGoA
+0.567
+0.657
+175794
+0.533
+0
+1
+0.286
+-4.715
+0
+0.0663
+81.997
+4
+0.383
+Jogi Mahi
+Bachna Ae Haseeno
+Vishal-Shekhar
+6TuPGbfbcWxITQnyMy04rU
+0.375
+0.702
+294949
+0.843
+0.000382
+5
+0.282
+-5.868
+0
+0.0846
+98.028
+4
+0.872
+Jhoom Barabar Jhoom
+Jhoom Barabar Jhoom
+Shankar-Ehsaan-Loy
+4HfmI5Yisll9PCOjJhtijw
+0.459
+0.534
+425613
+0.752
+0.00017
+2
+0.347
+-5.47
+1
+0.155
+101.025
+4
+0.613
+Ishq Shava
+Jab Tak Hai Jaan
+A.R. Rahman
+3RTL7zAwEu9vi5F4M9zeX1
+0.126
+0.731
+270315
+0.9
+0.0256
+6
+0.0722
+-7.66
+0
+0.0466
+143.991
+4
+0.963
+Ab To Forever
+Ta Ra Rum Pum
+Vishal-Shekhar
+3gLf7ctpqnklhoQfeveBw0
+0.201
+0.836
+301714
+0.915
+0.00113
+6
+0.0389
+-5.745
+0
+0.0445
+109.03
+4
+0.792
+Dhoom Machale Dhoom
+Dhoom:3
+Pritam
+1OBOW5jFnqpieVQFsxu2P9
+0.096
+0.7
+235625
+0.899
+1.38e-05
+1
+0.327
+-8.262
+1
+0.117
+109.994
+4
+0.674
+Laung Da Lashkara
+Patiala House
+Mahalakshmi Iyer
+5pQODzb8j3xMQ1qvrQXJvo
+0.05
+0.841
+304467
+0.74
+2.22e-06
+9
+0.128
+-8.432
+1
+0.13
+109.033
+4
+0.626
+Soni De Nakhre
+Partner
+Wajid
+4tBMbRwLJa5BjwJ6FrBlks
+0.00698
+0.829
+261013
+0.852
+0.000278
+6
+0.055
+-5.4
+1
+0.0477
+131.989
+4
+0.912
+Ek Pal Ka Jeena
+Kaho Naa Pyaar Hai (Original Motion Picture Soundtrack)
+Lucky Ali
+2YOEKFkS1IWFmZglZx2M3f
+0.0503
+0.676
+397427
+0.798
+3.96e-05
+6
+0.0371
+-9.493
+0
+0.0475
+103.98
+4
+0.833
+Dhoom Machale
+Dhoom
+Pritam
+2cYVtBHkrkk7F2qU2Y7Fn0
+0.055
+0.778
+375118
+0.918
+0.000319
+11
+0.348
+-5.023
+0
+0.12
+101.44
+4
+0.487
+Jeene Ke Hain Chaar Din
+Mujhse Shaadi Karogi
+Sonu Nigam
+4UJih0aZ8YcQm4CIErba45
+0.224
+0.798
+321320
+0.766
+0
+11
+0.0916
+-7.154
+0
+0.131
+135.008
+4
+0.768
+Kamli
+Dhoom:3
+Pritam
+2QY6SJXVnBFaqxOZhC1Fuu
+0.162
+0.619
+235102
+0.925
+0
+7
+0.255
+-6.215
+0
+0.103
+175.117
+4
+0.738
+Chupke Se
+Saathiya
+A.R. Rahman
+2F3MfkMgCaUypuEKyvbUzq
+0.378
+0.739
+364408
+0.35
+0
+5
+0.0683
+-14.784
+0
+0.04
+103.988
+4
+0.456
+Udi
+Guzaarish
+Sunidhi Chauhan
+3B5pWnmR739mZFh4eVdFla
+0.0322
+0.727
+201471
+0.896
+0.00011
+9
+0.289
+-2.994
+0
+0.0586
+132.97
+4
+0.652
+Khalibali
+Padmaavat
+Shivam Pathak
+3JT0mVof65rIHpRZITwRx1
+0.15
+0.642
+258894
+0.94
+0
+9
+0.0989
+-5.274
+1
+0.102
+101.252
+3
+0.645
+Saiyaan Ji
+Saiyaan Ji
+Yo Yo Honey Singh
+39QJ7KkN3L8LLqQqsO85W1
+0.0137
+0.896
+205450
+0.678
+4.1e-05
+0
+0.11
+-2.546
+0
+0.0815
+130.024
+4
+0.604
+Naah Goriye (From "Bala")
+Naah Goriye (From "Bala")
+B Praak
+1CM4rFDU9q4EoLy2K44qE6
+0.464
+0.823
+184618
+0.765
+0
+2
+0.0601
+-1.695
+0
+0.0633
+99.96
+4
+0.715
+Na Nai Sunna (feat. Nikhita Gandhi)
+Na Nai Sunna (feat. Nikhita Gandhi)
+Sachin-Jigar
+2Ld8d4sLx1YYD0fAslbN4p
+0.013
+0.771
+141143
+0.805
+0.000294
+2
+0.156
+-6.827
+1
+0.0904
+105.007
+4
+0.207
+Jai Jai Shivshankar
+War
+Vishal Dadlani
+5t724RmY6ojvDVTldLhkua
+0.257
+0.825
+230558
+0.904
+1.21e-05
+5
+0.0715
+-5.414
+0
+0.0787
+129.036
+4
+0.528
+Husnn Hai Suhaana New (from "Coolie No. 1")
+Husnn Hai Suhaana New (from "Coolie No. 1")
+Chandana Dixit
+6XvQPMLZdPPV22rY7FEBpI
+0.065
+0.78
+267417
+0.97
+3.33e-05
+1
+0.507
+-0.86
+1
+0.12
+126.068
+4
+0.793
+Odhani (From "Made in China")
+Odhani (From "Made in China")
+Sachin-Jigar
+2q0V50aNlI1RQXJyE5HDgD
+0.233
+0.711
+195397
+0.731
+0
+2
+0.178
+-6.651
+1
+0.0569
+130.0
+4
+0.474
+Bhare Bazaar
+Namaste England (Original Motion Picture Soundtrack)
+Rishi Rich
+17mv7iJcF5cbyQfVTk6aPW
+0.275
+0.855
+214286
+0.849
+0
+11
+0.0303
+-4.471
+1
+0.0548
+126.021
+4
+0.699
+Ankhiyon Se Goli Mare Returns (From "Pati Patni Aur Woh")
+Ankhiyon Se Goli Mare Returns (From "Pati Patni Aur Woh")
+Dev Negi
+05RjRBgVRLQ9hx5go5AQVQ
+0.121
+0.751
+219491
+0.975
+2.2e-06
+2
+0.204
+-3.024
+1
+0.0941
+104.018
+4
+0.818
+Mungda
+Total Dhamaal (Original Motion Picture Soundtrack)
+Jyotica Tangri
+3HAxFrmGXC8OMKIE1eIxDR
+0.0277
+0.761
+196138
+0.911
+0
+2
+0.388
+-2.561
+1
+0.136
+135.023
+4
+0.463
+Roop Tera Mastana
+Roop Tera Mastana - Single
+Mika Singh
+6OF1qQIxSFOpSZXuwmFAVc
+0.187
+0.771
+175263
+0.809
+5.37e-06
+4
+0.212
+-5.261
+1
+0.123
+95.027
+4
+0.516
+Gali Gali (From "Kgf Chapter 1")
+Gali Gali (From "Kgf Chapter 1")
+Neha Kakkar
+5x72Q1SyiDHJ4IF2mRzfkg
+0.191
+0.789
+174711
+0.95
+1.41e-05
+5
+0.0969
+-3.604
+0
+0.0759
+126.013
+4
+0.746
+Chura Ke Dil Mera - From "Hungama 2"
+Chura Ke Dil Mera (From "Hungama 2")
+Benny Dayal
+7d5ufSYehroRIgCXxJvcTM
+0.0588
+0.737
+285774
+0.857
+1.17e-05
+7
+0.281
+-5.806
+1
+0.0451
+126.005
+4
+0.817
+Shayad
+Love Aaj Kal (Original Motion Picture Soundtrack)
+Pritam
+1smFN2CLqGROu0J0UyvDfL
+0.785
+0.483
+247941
+0.468
+0
+8
+0.152
+-7.642
+1
+0.0341
+135.864
+4
+0.319
+Baarish
+Half Girlfriend
+Ash King
+16BGhwv8wYXkv2mMJF7ryv
+0.581
+0.465
+276380
+0.769
+0
+0
+0.108
+-3.209
+1
+0.0325
+87.961
+4
+0.473
+Pehla Nasha
+Jo Jeeta Wohi Sikandar (Original Motion Picture Soundtrack)
+Udit Narayan
+1VrheK4CdhX74nrOSNIFtH
+0.774
+0.458
+291400
+0.34
+2.01e-05
+5
+0.0799
+-14.309
+1
+0.0333
+151.979
+4
+0.516
+Badri Ki Dulhania (Title Track)
+Badrinath Ki Dulhania
+Dev Negi
+2xbvLQBFW7E9232BwMBljb
+0.105
+0.759
+206859
+0.952
+0
+2
+0.0693
+-2.837
+1
+0.123
+128.039
+4
+0.812
+Kala Chashma
+Baar Baar Dekho (Original Motion Picture Soundtrack)
+Amar Arshi
+5CSEaABQkS1hoLza0IpK2r
+0.0984
+0.801
+187006
+0.856
+6.62e-05
+0
+0.228
+-4.233
+1
+0.065
+106.026
+4
+0.919
+After Party
+After Party
+DJ LYAN
+1xzXdnoVhFLNVIFSxxfDCI
+0.00068
+0.615
+190435
+0.61
+0
+7
+0.287
+-7.334
+0
+0.0435
+91.59
+4
+0.435
+After Party - Rishi Rich Remix
+After Party (Rishi Rich Remix)
+DJ LYAN
+7vPAm6vbeIBWpCF2Honbor
+0.00392
+0.629
+194851
+0.865
+0
+7
+0.213
+-6.228
+0
+0.0553
+100.99
+4
+0.392
+Dance
+Dance
+F1rstman
+7fWMvmH2YLxabiHfxH03CO
+0.0118
+0.777
+209602
+0.814
+9.75e-06
+8
+0.05
+-5.42
+0
+0.0465
+97.974
+4
+0.766
+Do Dhaari Talwaar
+Mere Brother Ki Dulhan
+Sohail Sen
+6RZwj2PZDqM6g7gmO6bOxw
+0.47
+0.703
+300826
+0.883
+8.46e-06
+0
+0.31
+-7.85
+0
+0.045
+135.05
+4
+0.839
+Jalebi Baby (Tesher x Jason Derulo)
+Jalebi Baby (Tesher x Jason Derulo)
+Tesher
+6FvSS3Goz7OC8oCC2eWqe8
+0.0289
+0.691
+169154
+0.829
+0
+0
+0.254
+-7.179
+1
+0.0412
+93.059
+4
+0.866
+Panjeba
+Panjeba
+Jasmine Sandlas
+5ENQkLxbx4lWvsQNxCGxkb
+0.474
+0.774
+166212
+0.864
+0.000281
+5
+0.36
+-5.268
+0
+0.0677
+101.985
+4
+0.781
+Ishq Tera Tadpave - Oh Ho Ho Ho
+Ishq Tera Tadpave (Oh Ho Ho Ho)
+Sukhbir
+3NpNTYETMcXspfs8hE8T7h
+0.0558
+0.733
+367818
+0.963
+1.32e-05
+10
+0.0766
+-5.06
+1
+0.0665
+145.05
+4
+0.91
+Tumse Bhi Zyada (From "Tadap")
+Tumse Bhi Zyada (From "Tadap")
+Pritam
+2cC4DfpPa7x1QZTKQpe3TP
+0.466
+0.511
+319100
+0.816
+0
+2
+0.248
+-5.375
+0
+0.0674
+89.018
+4
+0.688
+Tere Siva Jag Mein
+Tadap
+Pritam
+2o00edfZxmZ1v8NzwKB8rA
+0.0528
+0.722
+206090
+0.821
+3.8e-05
+5
+0.196
+-5.325
+1
+0.0567
+121.993
+4
+0.752
+Raat Ka Nasha
+Asoka (Original Motion Picture Soundtrack)
+Anu Malik
+4gjFNGQ0BodNqiOAOAOMSW
+0.548
+0.59
+313613
+0.596
+5.16e-06
+5
+0.463
+-7.932
+0
+0.037
+83.113
+4
+0.692
+Raat Ka Nasha
+Asoka (Original Motion Picture Soundtrack)
+Anu Malik
+6c3Q6tMBsqucdb1TpPybGv
+0.471
+0.598
+314547
+0.609
+1.05e-05
+1
+0.241
+-8.574
+1
+0.0397
+83.121
+4
+0.706
+Kaun Nachdi
+Sonu Ke Titu Ki Sweety
+Guru Randhawa
+7r8QeC6Uy3AbIXqH7W9y0K
+0.0357
+0.772
+183373
+0.83
+0
+4
+0.0419
+-3.981
+0
+0.0455
+127.999
+4
+0.753
+Lovely
+Happy New Year
+Kanika Kapoor
+1YTU6H9mLYZZMP78x5V7KC
+0.0831
+0.51
+220714
+0.919
+2.61e-06
+8
+0.0422
+-2.926
+1
+0.149
+111.989
+4
+0.673
