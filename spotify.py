@@ -7,6 +7,7 @@ import spotipy
 import webbrowser
 import spotipy.util as util
 from json.decoder import JSONDecodeError
+from functools import cmp_to_key
 
 '''
 <Resources/Info>
@@ -130,6 +131,84 @@ def get_x_term_data(spotifyObject, lengthOfTerm):
 	sys.stdout = open('{term}.txt'.format(term = lengthOfTerm), 'wt')
 	print_list_of_lists([trackListNames, trackListIDs, acousticnessData, danceabilityData, durationData, energyData, instrumentalnessData, keyData, livenessData, loudnessData, modeData, speechinessData, tempoData, timeSignatureData, valenceData])
 
+def get_user_top_albums(spotifyObject, num=50):
+	# get all the user's saved tracks
+	print('executing get_user_top_albums')
+	results = spotifyObject.current_user_saved_tracks(limit=num)
+	print('retrieved current_user_saved_tracks')
+	albums = dict()
+	album_cache = dict()
+
+	# iterate over each saved track and get the album information
+	page = 0
+	itemnum = 0
+	while results['items']:
+		print(f'on page {page}...')
+		for item in results['items']:
+			# print(f'on item {itemnum}')
+			album = item['track']['album']
+			# print(album)
+			album_id = album['id']
+			album_cache[album_id] = album
+			album_name = album['name']
+			album_artist = album['artists'][0]['name']
+			if album_id not in albums.keys():
+				albums[album_id] = 1
+				# print(spotifyObject.album(album_id)['name'], 1)
+			else:
+				albums[album_id] = albums[album_id] + 1
+				# print(spotifyObject.album(album_id)['name'], albums[album_id])
+			itemnum = itemnum + 1
+		page = page + 1
+		if results['next']:
+			results = spotifyObject.next(results)
+		else:
+			break
+	print('retrieved all albums from current_user_saved_tracks')
+
+	# remove items with only one/two item(s), we don't care about those
+	for key in list(albums.keys()):
+		if albums[key] < 3:
+			 del albums[key]
+	print('removed non-pertinent albums')
+
+
+	def compare(album_id1, album_id2):
+		# print(album_id1, album_id2)
+		album_liked_songs1 = albums[album_id1]
+		album_liked_songs2 = albums[album_id2]
+		album_total_songs1 = album_cache[album_id1]['total_tracks']
+		album_total_songs2 = album_cache[album_id2]['total_tracks']
+		album_proportion1 = (album_liked_songs1 / album_total_songs1)
+		album_proportion2 = (album_liked_songs2 / album_total_songs2)
+		# print(album_proportion1, album_proportion2)
+		score = (album_proportion1 * album_proportion1) - (album_proportion2 * album_proportion2)
+		# print('score', score)
+		if score == 0:
+			return album_liked_songs1 - album_liked_songs2
+		return score
+
+	sorted_albums = sorted(albums, key=cmp_to_key(compare), reverse=True)
+	print('sorted albums based on likeness score')
+
+	print('Here is your Album Wrapped:')
+	# print out the album information
+	rank = 1
+	for album_id in sorted_albums:
+		album_object = album_cache[album_id]
+		album_name = album_cache[album_id]['name']
+		album_artist = album_cache[album_id]['artists'][0]['name']
+		album_liked_songs_number = albums[album_id]
+		album_song_count = album_cache[album_id]['total_tracks']
+		print(f'{rank}: {album_name} by {album_artist}. {album_liked_songs_number}/{album_song_count}.')
+		rank = rank + 1
+	# for key in albums.keys():
+	#     print(spotifyObject.album(key)['name'], '; Number of songs:', albums[key])
+	# TODO: image generation!!!
+	return
+
+
+
 username = sys.argv[1] # f.e. 'python spotify.py rohanvar'
 ID='ca7d8ea9cda54fb8b9140214fcb1aa1f'
 SECRET='4821503f455d48458d4f19d8d1fa7d1a'
@@ -155,6 +234,7 @@ Playlist Name:  Public Rolex Collection 🔊
 Playlist Name:  Sad Snoozes 💤
 Playlist Name:  BollyGOOD 💃🏽
 '''
-get_playlist_data("BollyGOOD 💃🏽", spotifyObject)
+# get_playlist_data("BollyGOOD 💃🏽", spotifyObject)
 # get_x_term_data(spotifyObject, "short_term")
 # get_x_term_data(spotifyObject, "long_term")
+get_user_top_albums(spotifyObject)
