@@ -9,6 +9,10 @@ import spotipy.util as util
 from json.decoder import JSONDecodeError
 from functools import cmp_to_key
 
+from PIL import Image
+import requests
+from io import BytesIO
+
 '''
 <Resources/Info>
 https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
@@ -131,10 +135,24 @@ def get_x_term_data(spotifyObject, lengthOfTerm):
 	sys.stdout = open('{term}.txt'.format(term = lengthOfTerm), 'wt')
 	print_list_of_lists([trackListNames, trackListIDs, acousticnessData, danceabilityData, durationData, energyData, instrumentalnessData, keyData, livenessData, loudnessData, modeData, speechinessData, tempoData, timeSignatureData, valenceData])
 
-def get_user_top_albums(spotifyObject, num=50):
+# https://note.nkmk.me/en/python-pillow-concat-images/
+def get_concat_h(im1, im2):
+    dst = Image.new('RGB', (im1.width + im2.width, im1.height))
+    dst.paste(im1, (0, 0))
+    dst.paste(im2, (im1.width, 0))
+    return dst
+
+def get_concat_v(im1, im2):
+    dst = Image.new('RGB', (im1.width, im1.height + im2.height))
+    dst.paste(im1, (0, 0))
+    dst.paste(im2, (0, im1.height))
+    return dst
+
+
+def get_user_top_albums(spotifyObject):
 	# get all the user's saved tracks
 	print('executing get_user_top_albums')
-	results = spotifyObject.current_user_saved_tracks(limit=num)
+	results = spotifyObject.current_user_saved_tracks()
 	print('retrieved current_user_saved_tracks')
 	albums = dict()
 	album_cache = dict()
@@ -142,12 +160,15 @@ def get_user_top_albums(spotifyObject, num=50):
 	# iterate over each saved track and get the album information
 	page = 0
 	itemnum = 0
+	printed = False
 	while results['items']:
 		print(f'on page {page}...')
 		for item in results['items']:
 			# print(f'on item {itemnum}')
 			album = item['track']['album']
-			# print(album)
+			if not printed:
+				print(album)
+				printed = True
 			album_id = album['id']
 			album_cache[album_id] = album
 			album_name = album['name']
@@ -167,6 +188,7 @@ def get_user_top_albums(spotifyObject, num=50):
 	print('retrieved all albums from current_user_saved_tracks')
 
 	# remove items with only one/two item(s), we don't care about those
+	sample_item = None
 	for key in list(albums.keys()):
 		if albums[key] < 3:
 			 del albums[key]
@@ -191,20 +213,36 @@ def get_user_top_albums(spotifyObject, num=50):
 	sorted_albums = sorted(albums, key=cmp_to_key(compare), reverse=True)
 	print('sorted albums based on likeness score')
 
+	print('sample of an album JSON below')
+
+
 	print('Here is your Album Wrapped:')
 	# print out the album information
 	rank = 1
 	for album_id in sorted_albums:
-		album_object = album_cache[album_id]
 		album_name = album_cache[album_id]['name']
 		album_artist = album_cache[album_id]['artists'][0]['name']
 		album_liked_songs_number = albums[album_id]
 		album_song_count = album_cache[album_id]['total_tracks']
 		print(f'{rank}: {album_name} by {album_artist}. {album_liked_songs_number}/{album_song_count}.')
 		rank = rank + 1
-	# for key in albums.keys():
-	#     print(spotifyObject.album(key)['name'], '; Number of songs:', albums[key])
-	# TODO: image generation!!!
+
+
+	base_image = None
+	limit_num = 0
+	for album_id in sorted_albums:
+		if limit_num > 10:
+			break
+		album_object = album_cache[album_id]
+		album_image_url = album_cache[album_id]['images'][0]['url']
+		img_response = requests.get(album_image_url)
+		album_image = Image.open(BytesIO(img_response.content))
+		if base_image is None:
+			base_image = album_image
+		else:
+			base_image = get_concat_h(base_image, album_image)
+		limit_num = limit_num + 1
+	base_image.save('test.jpg')
 	return
 
 
